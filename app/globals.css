@@ -1,0 +1,145 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #18352a;
+  --color-charcoal: #242823;
+  --color-limestone: #f3f0e6;
+  --color-sage: #a9b9a4;
+  --color-terracotta: #b47d5c;
+  --color-lime: #95c11f;
+
+  --font-display: var(--font-instrument), "Times New Roman", serif;
+  --font-sans: var(--font-manrope), system-ui, sans-serif;
+
+  --breakpoint-xs: 30rem;
+}
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  background-color: var(--color-limestone);
+  color: var(--color-charcoal);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--color-sage);
+  color: var(--color-forest);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-terracotta);
+  outline-offset: 4px;
+}
+
+/* Hero headline: hidden until GSAP has split it (or reduced motion restores it). */
+.hero-title[data-state="pending"] {
+  visibility: hidden;
+}
+
+.hero-line {
+  padding-bottom: 0.08em;
+  margin-bottom: -0.08em;
+}
+
+.eyebrow {
+  font-size: 0.6875rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.eyebrow::before {
+  content: "";
+  display: inline-block;
+  width: 0.4rem;
+  height: 0.4rem;
+  margin-right: 0.75rem;
+  vertical-align: 0.1em;
+  background: var(--color-lime);
+}
+
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  border-radius: 9999px;
+  background: var(--color-forest);
+  color: var(--color-limestone);
+  padding: 1rem 1.75rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.btn-primary:hover {
+  background: var(--color-charcoal);
+}
+
+.btn-primary--light {
+  background: var(--color-limestone);
+  color: var(--color-forest);
+}
+
+.btn-primary--light:hover {
+  background: #ffffff;
+}
+
+.link-line {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.45em;
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
+  transition: text-decoration-color 0.3s ease, color 0.3s ease;
+}
+
+.link-line:hover {
+  color: var(--color-terracotta);
+  text-decoration-color: currentColor;
+}
+
+.frame {
+  position: relative;
+  overflow: hidden;
+  background: var(--color-sage);
+}
+
+.frame img,
+.frame video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.parallax-media img {
+  scale: 1.16;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .parallax-media img {
+    scale: 1;
+  }
+}
