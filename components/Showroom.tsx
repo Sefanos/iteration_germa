@@ -7,7 +7,7 @@ export default function Showroom() {
       <div className="mx-auto max-w-[1440px] px-5 py-24 sm:px-8 lg:px-12 lg:py-36">
         <div className="grid grid-cols-1 gap-x-8 gap-y-14 lg:grid-cols-12">
           <div className="lg:col-span-5" data-reveal>
-            <p className="eyebrow text-limestone/80">03 — Showroom</p>
+            <p className="eyebrow text-limestone/80">05 — Showroom</p>
             <h2 className="mt-7 font-display text-[clamp(2.25rem,5vw,4.25rem)] leading-[1.04]">
               Le showroom d’Etoy, pour toucher la matière.
             </h2>
@@ -39,9 +39,9 @@ export default function Showroom() {
             </a>
           </div>
 
-          <div className="relative lg:col-span-6 lg:col-start-7" data-reveal>
-            <figure className="lg:ml-8">
-              <div className="frame parallax-media aspect-[3/2] w-full" data-parallax={5}>
+          <div className="relative lg:col-span-6 lg:col-start-7 lg:pb-28" data-reveal>
+            <figure className="lg:ml-16">
+              <div className="frame parallax-media aspect-[4/3] w-full" data-parallax={5} data-wipe="x">
                 <Image
                   src="/media/materials/pierre-valais.jpg"
                   alt="Dalles de pierre naturelle grise-verte à joints de gravier, vue de dessus"
@@ -50,12 +50,12 @@ export default function Showroom() {
                   sizes="(min-width:1024px) 48vw, 100vw"
                 />
               </div>
-              <figcaption className="mt-3 text-[0.75rem] tracking-[0.04em] text-limestone/60">
+              <figcaption className="mt-3 text-right text-[0.75rem] tracking-[0.04em] text-limestone/60">
                 Pierre naturelle, joints de gravier
               </figcaption>
             </figure>
-            <figure className="mt-8 w-3/4 sm:w-3/5 lg:absolute lg:-bottom-24 lg:-left-16 lg:mt-0 lg:w-[46%]">
-              <div className="frame parallax-media aspect-[3/2] w-full shadow-[0_30px_60px_-30px_rgba(0,0,0,0.6)]" data-parallax={8}>
+            <figure className="mt-8 w-[70%] sm:w-[56%] lg:absolute lg:bottom-0 lg:left-0 lg:mt-0 lg:w-[52%]">
+              <div className="frame parallax-media aspect-[3/2] w-full border-[6px] border-forest shadow-[0_30px_60px_-30px_rgba(0,0,0,0.7)]" data-parallax={8} data-wipe="y">
                 <Image
                   src="/media/materials/meleze.jpg"
                   alt="Lames de terrasse en mélèze patiné, gris-brun, en lumière rasante"

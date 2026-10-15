@@ -2,6 +2,7 @@ import Image from "next/image";
 import { legacy } from "@/lib/content";
 
 const nav = [
+  { href: "#maquette", label: "Notre approche" },
   { href: "#realisations", label: "Réalisations" },
   { href: "#savoir-faire", label: "Savoir-faire" },
   { href: "#showroom", label: "Showroom" },
@@ -10,14 +11,14 @@ const nav = [
 
 export default function Header() {
   return (
-    <header className="bg-forest text-limestone">
+    <header className="relative z-20 h-[4.5rem] bg-forest text-limestone">
       <a
         href="#contenu"
         className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-full focus:bg-limestone focus:px-4 focus:py-2 focus:text-forest"
       >
         Aller au contenu
       </a>
-      <div className="mx-auto flex max-w-[1440px] items-center justify-between gap-6 px-5 py-4 sm:px-8 lg:px-12">
+      <div className="mx-auto flex h-full max-w-[1440px] items-center justify-between gap-6 px-5 sm:px-8 lg:px-12">
         <a href={legacy.home} className="flex shrink-0 items-center" aria-label="Germa Paysages, accueil">
           <Image
             src="/media/germa-logo.svg"

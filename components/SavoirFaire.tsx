@@ -5,11 +5,11 @@ export default function SavoirFaire() {
   const [conception, ...rest] = families;
 
   return (
-    <section id="savoir-faire" className="scroll-mt-10 border-t border-forest/10 bg-limestone">
+    <section id="savoir-faire" className="scroll-mt-10 border-t border-forest/10">
       <div className="mx-auto max-w-[1440px] px-5 py-24 sm:px-8 lg:px-12 lg:py-36">
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-12" data-reveal>
           <div className="lg:col-span-3">
-            <p className="eyebrow text-forest">02 — Savoir-faire</p>
+            <p className="eyebrow text-forest">04 — Savoir-faire</p>
           </div>
           <div className="lg:col-span-8">
             <h2 className="font-display text-[clamp(2.25rem,5vw,4.25rem)] leading-[1.04] text-forest">

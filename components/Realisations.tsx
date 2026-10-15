@@ -13,11 +13,11 @@ const layout = [
 
 export default function Realisations() {
   return (
-    <section id="realisations" className="scroll-mt-10 bg-limestone">
+    <section id="realisations" className="scroll-mt-10">
       <div className="mx-auto max-w-[1440px] px-5 py-24 sm:px-8 lg:px-12 lg:py-36">
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-12" data-reveal>
           <div className="lg:col-span-3">
-            <p className="eyebrow text-forest">01 — Réalisations</p>
+            <p className="eyebrow text-forest">03 — Réalisations</p>
           </div>
           <div className="lg:col-span-7">
             <h2 className="font-display text-[clamp(2.25rem,5vw,4.25rem)] leading-[1.04] text-forest">
@@ -35,10 +35,15 @@ export default function Realisations() {
             const l = layout[i];
             return (
               <li key={p.slug} className={`${l.cls}`} data-reveal>
-                <a href={p.url} className="group block" aria-label={`${p.title}, ${p.place} (page sur germa-paysages.ch)`}>
-                  <div className={`frame ${l.aspect} w-full`}>
+                <a
+                  href={p.url}
+                  className="group block"
+                  aria-label={`${p.title}, ${p.place} (page sur germa-paysages.ch)`}
+                  data-cursor
+                >
+                  <div className={`frame ${l.aspect} w-full`} data-wipe={i % 3 === 0 ? "y" : i % 3 === 1 ? "x" : "-x"}>
                     <div
-                      className="parallax-media absolute inset-0 transition-[scale] duration-[1400ms] ease-out group-hover:scale-[1.04]"
+                      className="wipe-media parallax-media absolute inset-0 transition-[scale] duration-[1400ms] ease-out group-hover:scale-[1.04]"
                       data-parallax={l.parallax}
                     >
                       <Image
@@ -50,14 +55,14 @@ export default function Realisations() {
                       />
                     </div>
                   </div>
-                  <div className="mt-5 flex items-baseline justify-between gap-6">
+                  <div className="mt-7 flex items-baseline justify-between gap-6" data-drift={8 + (i % 3) * 5}>
                     <div>
-                      <h3 className="font-display text-[1.75rem] leading-tight text-forest sm:text-[2rem]">{p.title}</h3>
+                      <h3 className="font-display text-[2rem] leading-[1.05] text-forest sm:text-[2.6rem]">{p.title}</h3>
                       <p className="mt-1.5 text-[0.8125rem] tracking-[0.04em] text-charcoal/65">
                         {p.place} <span className="mx-2 text-terracotta">·</span> {p.family}
                       </p>
                     </div>
-                    <span className="link-line shrink-0 text-forest">Voir le projet</span>
+                    <span className="link-line project-cta shrink-0 text-forest">Voir le projet</span>
                   </div>
                 </a>
               </li>

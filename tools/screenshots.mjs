@@ -35,6 +35,8 @@ for (const t of targets) {
   await page.waitForTimeout(600);
   await page.evaluate(() => window.scrollTo(0, 0));
   await page.waitForTimeout(800);
+  // The body colour morph is scroll-driven; for the static full-page capture, give the showroom its own forest background.
+  await page.evaluate(() => { const s = document.getElementById("showroom"); if (s) s.style.backgroundColor = ""; });
   await page.screenshot({ path: `${out}/home-${t.name}-full.png`, fullPage: true });
   console.log(`saved ${out}/home-${t.name}-fold.png and ${out}/home-${t.name}-full.png (page height ${height}px)`);
   await ctx.close();

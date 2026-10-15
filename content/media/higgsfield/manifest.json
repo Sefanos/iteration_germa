@@ -1,7 +1,7 @@
 {
   "_source": "Generated with the Higgsfield MCP on 2026-10-15 for prompts/03-mvp-landing.md. H1 animates Germa's real Chermignon photo; M1 and M2 are material illustrations, not Germa projects. No people, text or logos in any output.",
   "creditsBefore": 950,
-  "generationsSubmitted": 7,
+  "generationsSubmitted": 29,
   "h1Prompt": "A real architectural photograph of a finished alpine garden, brought gently to life. Very slow, perfectly steady push-in toward the stepping-stone path, about 4% over the whole clip. Warm late-afternoon light. The lawn and larch trees stir in a faint mountain breeze. Everything built stays perfectly still and identical to the photo: flagstones, bollard lights, larch fence, chalet. Calm, premium, photorealistic.",
   "h1NegativePrompt": "morphing, warping, new objects, extra plants, people, animals, text, logos, camera shake, fast motion, lens flare, colour shift, HDR, CGI look, time-lapse",
   "entries": [
@@ -12,12 +12,25 @@
       "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/9_1.jpg",
       "sourceLocal": "content/media/hero/02-9_1.jpg",
       "model": "kling3_0",
-      "settings": { "mode": "pro", "duration": 5, "sound": "off", "startImage": "source", "endImage": "source", "requestedAspect": "16:9", "outputSize": "1660x1244 (model kept the 4:3 source)" },
+      "settings": {
+        "mode": "pro",
+        "duration": 5,
+        "sound": "off",
+        "startImage": "source",
+        "endImage": "source",
+        "requestedAspect": "16:9",
+        "outputSize": "1660x1244 (model kept the 4:3 source)"
+      },
       "jobId": "faca50dd-eea7-4e8e-bd24-3a9280fe381e",
       "seed": null,
       "status": "approved",
       "check": "Frames at 0, 1.25, 2.5, 3.75 and 4.9 s compared with the source photo: PSNR 31.6 / 31.5 / 31.5 / 31.5 / 31.5 dB (stable); consecutive sampled frames 40–43 dB. Flagstones, bollard lights, larch fence, bench, boulder and trees unchanged; nothing appears. Motion is a barely perceptible push-in with leaf movement.",
-      "derived": ["public/media/hero-loop.mp4", "public/media/hero-loop.webm", "content/media/higgsfield/H1/hero-loop.mp4", "content/media/higgsfield/H1/hero-loop.webm"],
+      "derived": [
+        "public/media/hero-loop.mp4",
+        "public/media/hero-loop.webm",
+        "content/media/higgsfield/H1/hero-loop.mp4",
+        "content/media/higgsfield/H1/hero-loop.webm"
+      ],
       "usedOnPage": true
     },
     {
@@ -26,7 +39,13 @@
       "file": "content/media/higgsfield/H1/H1-take2-kling.mp4",
       "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/9_1.jpg",
       "model": "kling3_0",
-      "settings": { "mode": "pro", "duration": 5, "sound": "off", "startImage": "source", "endImage": "source" },
+      "settings": {
+        "mode": "pro",
+        "duration": 5,
+        "sound": "off",
+        "startImage": "source",
+        "endImage": "source"
+      },
       "jobId": "9677408c-19d0-4132-afe5-3d761ef15e1e",
       "seed": null,
       "status": "approved",
@@ -39,7 +58,13 @@
       "file": "content/media/higgsfield/H1/H1-take3-minimax.mp4",
       "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/9_1.jpg",
       "model": "minimax_h3",
-      "settings": { "duration": 5, "aspect_ratio": "4:3", "startImage": "source", "endImage": "source", "outputSize": "1920x1440" },
+      "settings": {
+        "duration": 5,
+        "aspect_ratio": "4:3",
+        "startImage": "source",
+        "endImage": "source",
+        "outputSize": "1920x1440"
+      },
       "jobId": "b64503bb-b82d-47ed-b5fe-71a75d496807",
       "seed": null,
       "status": "rejected",
@@ -52,13 +77,20 @@
       "file": "content/media/higgsfield/M1/M1-take1.png",
       "source": null,
       "model": "gpt_image_2_5",
-      "settings": { "aspect_ratio": "3:2", "quality": "high", "resolution": "2k", "outputSize": "2048x1360" },
+      "settings": {
+        "aspect_ratio": "3:2",
+        "quality": "high",
+        "resolution": "2k",
+        "outputSize": "2048x1360"
+      },
       "jobId": "a5e14782-472b-4db3-81d5-f687ca692421",
       "prompt": "Top-down close-up of split natural Valais stone flagstones, grey-green gneiss with irregular gravel joints. Editorial material photography, soft raking late-afternoon light, muted limestone, charcoal and forest-green palette, no objects, no people, no text.",
       "seed": null,
       "status": "approved",
       "check": "No objects, people or text. Grey-green gneiss with gravel joints, raking light. Illustration only (showroom material plate).",
-      "derived": ["public/media/materials/pierre-valais.jpg"],
+      "derived": [
+        "public/media/materials/pierre-valais.jpg"
+      ],
       "usedOnPage": true
     },
     {
@@ -67,7 +99,11 @@
       "file": "content/media/higgsfield/M1/M1-take2.png",
       "source": null,
       "model": "gpt_image_2_5",
-      "settings": { "aspect_ratio": "3:2", "quality": "high", "resolution": "2k" },
+      "settings": {
+        "aspect_ratio": "3:2",
+        "quality": "high",
+        "resolution": "2k"
+      },
       "jobId": "28eca49d-7081-4a3c-8f32-d6d7ab1971f4",
       "seed": null,
       "status": "approved",
@@ -80,13 +116,20 @@
       "file": "content/media/higgsfield/M2/M2-take1.png",
       "source": null,
       "model": "gpt_image_2_5",
-      "settings": { "aspect_ratio": "3:2", "quality": "high", "resolution": "2k", "outputSize": "2048x1360" },
+      "settings": {
+        "aspect_ratio": "3:2",
+        "quality": "high",
+        "resolution": "2k",
+        "outputSize": "2048x1360"
+      },
       "jobId": "5583876b-023a-41f8-8920-467cd9034d25",
       "prompt": "Close-up of weathered Swiss larch decking boards, silver-brown patina, fine grain, crisp shadow lines. Editorial material photography, soft raking late-afternoon light, muted limestone, charcoal and forest-green palette, no objects, no people, no text.",
       "seed": null,
       "status": "approved",
       "check": "No objects, people or text. Silver-brown weathered boards with crisp shadow lines. Illustration only.",
-      "derived": ["public/media/materials/meleze.jpg"],
+      "derived": [
+        "public/media/materials/meleze.jpg"
+      ],
       "usedOnPage": true
     },
     {
@@ -95,12 +138,350 @@
       "file": "content/media/higgsfield/M2/M2-take2.png",
       "source": null,
       "model": "gpt_image_2_5",
-      "settings": { "aspect_ratio": "3:2", "quality": "high", "resolution": "2k" },
+      "settings": {
+        "aspect_ratio": "3:2",
+        "quality": "high",
+        "resolution": "2k"
+      },
       "jobId": "c188af07-8b55-4678-8e38-76196715a2c1",
       "seed": null,
       "status": "approved",
       "check": "Clean; a darker, more contrasty variant. Kept as alternate.",
       "usedOnPage": false
+    },
+    {
+      "id": "U1",
+      "take": 1,
+      "file": "content/media/higgsfield/U1/U1-hero-4k.png",
+      "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/9_1.jpg",
+      "model": "bytedance_image_upscale",
+      "settings": {
+        "resolution": "4k",
+        "outputSize": "4096x3072"
+      },
+      "jobId": "4bba49cb-5975-4271-a6a6-734ec53362c3",
+      "seed": null,
+      "status": "approved",
+      "check": "Checked at 100% against the source: grass blades, boulder texture and stone edges are cleaner, nothing invented. Resized to 2880x2160 JPG for the page (framed hero, not full-bleed).",
+      "derived": [
+        "public/media/hero-chermignon-path.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "R1",
+      "take": 1,
+      "file": "content/reference/maquette/R1-take1.png",
+      "source": null,
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "07f5fead-1a79-4f9b-b9a6-a666850b5470",
+      "seed": null,
+      "status": "approved",
+      "check": "Reference only for chapter 02 art direction; never shipped. No people, text or logos.",
+      "usedOnPage": false
+    },
+    {
+      "id": "R2",
+      "take": 1,
+      "file": "content/reference/maquette/R2-take1.png",
+      "source": null,
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "0e4833f7-9e8d-4bb0-a6ff-4bdaa9289137",
+      "seed": null,
+      "status": "approved",
+      "check": "Reference only for chapter 02 art direction; never shipped. No people, text or logos.",
+      "usedOnPage": false
+    },
+    {
+      "id": "R3",
+      "take": 1,
+      "file": "content/reference/maquette/R3-take1.png",
+      "source": null,
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "19c618b6-d4d8-4e9b-a90c-41c2fbb356ed",
+      "seed": null,
+      "status": "approved",
+      "check": "Reference only for chapter 02 art direction; never shipped. No people, text or logos.",
+      "usedOnPage": false
+    },
+    {
+      "id": "R4",
+      "take": 1,
+      "file": "content/reference/maquette/R4-take1.png",
+      "source": null,
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "bb3ba7a4-c8e8-4f97-ac94-8aa892e8fba1",
+      "seed": null,
+      "status": "approved",
+      "check": "Reference only for chapter 02 art direction; never shipped. No people, text or logos.",
+      "usedOnPage": false
+    },
+    {
+      "id": "R2",
+      "take": 2,
+      "file": "content/reference/maquette/R2-take2-sectionref.png",
+      "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/coupes_travail_1_0.jpg (image reference)",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "dd02cd32-c5eb-4906-91f2-2e7998bcee5b",
+      "seed": null,
+      "status": "approved",
+      "check": "Reference only for chapter 02 art direction; never shipped. No people, text or logos.",
+      "usedOnPage": false
+    },
+    {
+      "id": "R4",
+      "take": 2,
+      "file": "content/reference/maquette/R4-take2-sectionref.png",
+      "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/coupes_travail_1_0.jpg (image reference)",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "947c7c8a-a0a5-4d07-980f-f729cdfc2fab",
+      "seed": null,
+      "status": "approved",
+      "check": "Reference only for chapter 02 art direction; never shipped. No people, text or logos.",
+      "usedOnPage": false
+    },
+    {
+      "id": "S1",
+      "take": 1,
+      "file": "content/media/higgsfield/S/S1-take1.png",
+      "source": "R3-take1 (job 19c618b6…) as image reference; edited with GPT Image 2.5",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "ebd3f228-eed9-4182-9334-1eed93396c50",
+      "seed": null,
+      "status": "approved",
+      "check": "Chosen: ink plan on the plaster slab with the same stepped profile as S2–S4. Illustration of a study model, not a Germa project; captioned as such on the page.",
+      "usedOnPage": true
+    },
+    {
+      "id": "S1",
+      "take": 2,
+      "file": "content/media/higgsfield/S/S1-take2.png",
+      "source": "R3-take1 (job 19c618b6…) as image reference; edited with GPT Image 2.5",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "1068e46f-979c-4332-bf3c-c938a788cb30",
+      "seed": null,
+      "status": "approved",
+      "check": "Alternate; the slab profile differs from the other states, so take 1 is used. Illustration of a study model, not a Germa project; captioned as such on the page.",
+      "usedOnPage": false
+    },
+    {
+      "id": "S2",
+      "take": 1,
+      "file": "content/media/higgsfield/S/S2-take1.png",
+      "source": "R3-take1 (job 19c618b6…) as image reference; edited with GPT Image 2.5",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "feaa40b8-cbd4-4319-a210-a98811d4cca1",
+      "seed": null,
+      "status": "approved",
+      "check": "Chosen: monochrome plaster and basswood, warm background consistent with S3. Illustration of a study model, not a Germa project; captioned as such on the page.",
+      "usedOnPage": true
+    },
+    {
+      "id": "S2",
+      "take": 2,
+      "file": "content/media/higgsfield/S/S2-take2.png",
+      "source": "R3-take1 (job 19c618b6…) as image reference; edited with GPT Image 2.5",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "00b4c1a2-260a-40f6-8733-d0add1c99059",
+      "seed": null,
+      "status": "approved",
+      "check": "Alternate with furniture on the terrace; not used. Illustration of a study model, not a Germa project; captioned as such on the page.",
+      "usedOnPage": false
+    },
+    {
+      "id": "S4",
+      "take": 1,
+      "file": "content/media/higgsfield/S/S4-take1.png",
+      "source": "R3-take1 (job 19c618b6…) as image reference; edited with GPT Image 2.5",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "68c67c04-2d48-4be0-831a-d28ef6dac25f",
+      "seed": null,
+      "status": "approved",
+      "check": "Alternate; slightly harsher light. Illustration of a study model, not a Germa project; captioned as such on the page.",
+      "usedOnPage": false
+    },
+    {
+      "id": "S4",
+      "take": 2,
+      "file": "content/media/higgsfield/S/S4-take2.png",
+      "source": "R3-take1 (job 19c618b6…) as image reference; edited with GPT Image 2.5",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "384e5988-4fd8-489b-a2b8-edb2a2bedc24",
+      "seed": null,
+      "status": "approved",
+      "check": "Chosen: fully coloured, warm raking light, long shadows. Illustration of a study model, not a Germa project; captioned as such on the page.",
+      "usedOnPage": true
+    },
+    {
+      "id": "S3",
+      "take": 1,
+      "file": "content/media/higgsfield/S/S3-ref.png",
+      "source": "copy of R3-take1",
+      "model": "gpt_image_2_5",
+      "jobId": "19c618b6-d4d8-4e9b-a90c-41c2fbb356ed",
+      "status": "approved",
+      "check": "Used as the Réaliser state of the sequence.",
+      "usedOnPage": true
+    },
+    {
+      "id": "C1",
+      "take": 1,
+      "file": "content/media/higgsfield/C/C1-volumes.mp4",
+      "source": "S1-take1 → S2-take1",
+      "model": "kling3_0",
+      "settings": {
+        "mode": "pro",
+        "duration": 5,
+        "sound": "off",
+        "aspect_ratio": "16:9",
+        "outputSize": "1912x1080"
+      },
+      "jobId": "cdb58d11-4ea7-4c5c-85a1-a582ca8d2147",
+      "seed": null,
+      "status": "approved",
+      "check": "Plan → white volumes. Locked camera, slab unchanged; volumes rise in place.",
+      "derived": [
+        "content/media/higgsfield/C/maquette-sequence.mp4 (xfade concat)",
+        "public/media/maquette/seq/{1600,800}/f001–f147.webp",
+        "public/media/maquette-poster.jpg (last frame)"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "C2",
+      "take": 1,
+      "file": "content/media/higgsfield/C/C2-materials.mp4",
+      "source": "S2-take1 → S3 (R3-take1)",
+      "model": "kling3_0",
+      "settings": {
+        "mode": "pro",
+        "duration": 5,
+        "sound": "off",
+        "aspect_ratio": "16:9",
+        "outputSize": "1912x1080"
+      },
+      "jobId": "27600c50-b1e0-4e35-bbb2-b7262b2415cf",
+      "seed": null,
+      "status": "approved",
+      "check": "White → materials. Locked camera; stone, timber and muted greens resolve without the model moving.",
+      "derived": [
+        "content/media/higgsfield/C/maquette-sequence.mp4 (xfade concat)",
+        "public/media/maquette/seq/{1600,800}/f001–f147.webp",
+        "public/media/maquette-poster.jpg (last frame)"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "C3",
+      "take": 1,
+      "file": "content/media/higgsfield/C/C3-light.mp4",
+      "source": "S3 → S4-take2",
+      "model": "kling3_0",
+      "settings": {
+        "mode": "pro",
+        "duration": 5,
+        "sound": "off",
+        "aspect_ratio": "16:9",
+        "outputSize": "1912x1080"
+      },
+      "jobId": "c4279349-d770-4dce-8576-ad0e1dcda01c",
+      "seed": null,
+      "status": "approved",
+      "check": "Materials → colour and warm raking light. Locked camera.",
+      "derived": [
+        "content/media/higgsfield/C/maquette-sequence.mp4 (xfade concat)",
+        "public/media/maquette/seq/{1600,800}/f001–f147.webp",
+        "public/media/maquette-poster.jpg (last frame)"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "C4",
+      "take": 1,
+      "file": "content/media/higgsfield/C/C4-alive.mp4",
+      "source": "S4-take2 → S4-take2",
+      "model": "kling3_0",
+      "settings": {
+        "mode": "pro",
+        "duration": 5,
+        "sound": "off",
+        "aspect_ratio": "16:9",
+        "outputSize": "1912x1080"
+      },
+      "jobId": "8977791e-7b00-4dec-a1db-e42b9b09c691",
+      "seed": null,
+      "status": "approved",
+      "check": "Living loop: faint breeze in the grasses, 3% push-in. PSNR 32.6 / 32.5 dB vs S4 at 0 and 4.9 s; nothing appears.",
+      "derived": [
+        "content/media/higgsfield/C/maquette-sequence.mp4 (xfade concat)",
+        "public/media/maquette/seq/{1600,800}/f001–f147.webp",
+        "public/media/maquette-poster.jpg (last frame)"
+      ],
+      "usedOnPage": true
     }
+  ],
+  "notes": [
+    "2026-10-15 round 2: 5 R submissions were refused with a 429 rate limit by the gpt_image_2_5 backend and 3 of them were resubmitted; 2 takes per R prompt instead of 4 to stay within the budget.",
+    "2026-10-15 round 3: the procedural three.js maquette was replaced by a Kling 3.0 sequence (C1–C4) scrubbed as WebP frames; see IMPLEMENTATION_PLAN.md."
   ]
 }

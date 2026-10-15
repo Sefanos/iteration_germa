@@ -10,11 +10,11 @@ const mainPhone = contact.locations[0].phone;
 
 export default function Contact() {
   return (
-    <footer id="contact" className="scroll-mt-10 bg-limestone">
+    <footer id="contact" className="scroll-mt-10">
       <div className="mx-auto max-w-[1440px] px-5 pt-24 pb-10 sm:px-8 lg:px-12 lg:pt-40 lg:pb-12">
         <div className="grid grid-cols-1 gap-x-8 gap-y-10 lg:grid-cols-12" data-reveal>
           <div className="lg:col-span-3">
-            <p className="eyebrow text-forest">04 — Contact</p>
+            <p className="eyebrow text-forest">06 — Contact</p>
           </div>
           <div className="lg:col-span-8">
             <h2 className="font-display text-[clamp(2.6rem,6.5vw,5.5rem)] leading-[1.02] text-forest">

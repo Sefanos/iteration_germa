@@ -227,8 +227,8 @@ export const contact = {
 export const hero = {
   still: {
     src: "/media/hero-chermignon-path.jpg",
-    width: 1920,
-    height: 1440,
+    width: 2880,
+    height: 2160,
     alt: "Allée en pas japonais dans une pelouse, bornes lumineuses et palissade en mélèze, jardin d’un chalet à Chermignon",
   },
   /** Approved Higgsfield H1 take 1 (see content/media/higgsfield/manifest.json). */
