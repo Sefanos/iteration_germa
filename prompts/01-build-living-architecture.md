@@ -29,6 +29,7 @@ All content comes from `/content`:
 - `content/services.json`: the 44 legacy services, each with its proposed family.
 - `content/projects/` and `content/media/`: projects (featured ones marked), verbatim text, and images with their dimensions.
 - `content/before-after.json` and `content/IMAGE_INVENTORY.csv`.
+- `content/media/higgsfield/manifest.json`, if it exists: upscales, video loops and material plates made with Higgsfield (see `prompts/02-higgsfield-visuals.md`). Use only entries with `"status": "approved"`. Prefer an approved upscale over its original source. `content/reference/` holds art-direction references for chapter 02: study them, never ship them.
 
 Rules:
 
@@ -40,7 +41,8 @@ Rules:
 - **You may write editorial copy** in French: headlines, section intros, captions. A project description is at most two sentences, based only on the source text and what is visible in the photos. Store it with `draft: true` so the client can approve it.
 - **Never use images flagged `exclude` or `supplier`.**
 - **Never present a stock or generated image as a Germa project.** Record every non-Germa or modified image in `ASSET_MANIFEST.md`. When `NEXT_PUBLIC_SHOW_PLACEHOLDERS=1`, label those images visibly in the UI.
-- **AI upscaling of Germa's own photos is allowed for the pitch**, if an upscaler is available, to reach hero resolution. Check every result at 100% for invented detail (foliage, stone joints, text, faces), record it in the manifest, and treat it as temporary. The real fix is new photography.
+- **Material plates** (`kind: "material"`) are generic illustrations. Use them only as textures or atmosphere in chapters 04 and 06, never next to a project title or as a realisation.
+- **AI upscaling of Germa's own photos is allowed for the pitch**, if an upscaler is available or an approved Higgsfield upscale exists, to reach hero resolution. Check every result at 100% for invented detail (foliage, stone joints, text, faces), record it in the manifest, and treat it as temporary. The real fix is new photography.
 
 Key facts, verified on the live site on 2026-10-15. If they differ from `content/site.json`, the content pack wins.
 
@@ -109,6 +111,11 @@ Principles:
 - A full-bleed hero needs a source image at least 2560 px wide. Most of the current library is 840–1600 px.
 - If `content/media/hero/` has no image that large, design an **editorial framed hero** instead: the photo covers about 55–70% of the viewport width, set asymmetrically, with the headline crossing the frame edge. That works at 1600 px.
 - Don't upscale silently. Any upscale goes in the manifest.
+
+**Hero loop (optional).** If an approved Higgsfield hero video exists (V1, else V2):
+- The still image stays the LCP element and is rendered first. The video is a progressive layer that fades in over it once it can play through.
+- Encode it yourself with ffmpeg: MP4 (H.264) plus WebM/AV1, muted, `playsinline`, looped, about 3 MB or less at 1920 px. If the clip doesn't loop cleanly, crossfade the ends.
+- No video under `prefers-reduced-motion`, `saveData` or a narrow viewport where it would hurt; show the still instead. Add a discreet pause control (WCAG 2.2.2).
 
 **Animation**
 - Line-by-line headline reveal with GSAP SplitText. All GSAP plugins are free since 3.13. Use `autoSplit` so lines re-split after fonts load and on resize.
@@ -212,6 +219,7 @@ Each family gets one strong photo and one sentence. It reveals its sub-services,
 - **Before/after slider**
   - Show it only with a verified pair from `content/before-after.json`. A pair of a 3D projection and the finished garden is the strongest proof of "idea → result". If there is no verified pair, leave the slider out.
   - The slider must be keyboard-operable (a native `input type="range"` underneath) and labelled.
+- If an approved V3 video exists (état initial → projection, Saint-Maurice), you can play it as the « Conception » step, scrubbed on scroll or played once in view. Caption it « Projection », never as footage of the built garden. Same reduced-motion and saveData rules as the hero loop.
 
 ### Chapter 06: Showroom Etoy
 
