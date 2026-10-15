@@ -1,0 +1,93 @@
+{
+  "slug": "concept-bacs-plantes-interieur",
+  "title": "Concept bacs plantés intérieur",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/concept-bacs-plantes-interieur",
+  "type": "chantier-a-z",
+  "text": "Conception et réalisation de plantations en intérieur avec mix de plantes, terreau spécial.",
+  "wordCount": 13,
+  "services": [
+    "paysagisme-dinterieur"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/20160315_101844_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20160315_101844_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20160315_100640_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20160315_100640_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20160223_152141_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20160223_152141_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20160223_151935_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20160223_151935_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20160223_151619_1600x900_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20160223_151619_1600x900_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20160223_151545_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20160223_151545_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20160223_111922_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20160223_111922_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 7,
+    "usable": 7,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

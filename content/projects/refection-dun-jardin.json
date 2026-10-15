@@ -1,0 +1,63 @@
+{
+  "slug": "refection-dun-jardin",
+  "title": "Réfection d'un jardin",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/refection-dun-jardin",
+  "type": "chantier-a-z",
+  "text": "Transformation de la pelouse, plantations d'arbustes à fleurs et mise en place de pavés en ligne.",
+  "wordCount": 16,
+  "services": [
+    "engazonnement-en-semi-ou-en-precultive"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/5_1600x1012_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/5_1600x1012_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0920_1600x666.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0920_1600x666.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/4_1600x672.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/4_1600x672.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/1_1600x753.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/1_1600x753.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 4,
+    "usable": 4,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

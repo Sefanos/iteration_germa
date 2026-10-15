@@ -1,0 +1,136 @@
+{
+  "slug": "gabion-gazon-en-rouleau",
+  "title": "Gabion, gazon en rouleau",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/gabion-gazon-en-rouleau",
+  "type": "chantier-a-z",
+  "text": "Création d'un accès, gabions, enrochement, mouvement de terre et gazon en rouleaux.",
+  "wordCount": 12,
+  "services": [
+    "engazonnement-en-semi-ou-en-precultive",
+    "enrochement-dagrement-et-de-soutenement",
+    "gabions-de-separation-ou-de-soutenement",
+    "terrassement-et-travaux-de-nivellement-du-sol"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/s7000399_1280x960_1_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000399_1280x960_1_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000403_1280x960_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000403_1280x960_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000396_1280x960_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000396_1280x960_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000375_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000375_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000374_1280x960_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000374_1280x960_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000372_1280x960_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000372_1280x960_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000363_1280x960_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000363_1280x960_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000357_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000357_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000354_1280x960_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000354_1280x960_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000349_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000349_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000344_1280x960_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000344_1280x960_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 11,
+    "usable": 11,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

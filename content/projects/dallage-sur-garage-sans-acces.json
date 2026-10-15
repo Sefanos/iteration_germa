@@ -1,0 +1,65 @@
+{
+  "slug": "dallage-sur-garage-sans-acces",
+  "title": "Dallage sur garage sans accès",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/dallage-sur-garage-sans-acces",
+  "type": "chantier-a-z",
+  "text": "Réalisation d'un dallage sur un garage, sans accès direct.\nLes machines sont montées au camion grue.",
+  "wordCount": 16,
+  "services": [
+    "dallages-et-pavages"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/dallages_lausanne_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/dallages_lausanne_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/dallages_lausanne_2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/dallages_lausanne_2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/dallages_lausanne_3.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/dallages_lausanne_3.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/dallages_lausanne_4_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/dallages_lausanne_4_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [
+    "Lausanne"
+  ],
+  "stats": {
+    "images": 4,
+    "usable": 4,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

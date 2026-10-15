@@ -1,0 +1,53 @@
+{
+  "slug": "preparation-dun-radier-beton-pour-la-pose-dun-spa",
+  "title": "Préparation d'un radier béton pour la pose d'un SPA",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/preparation-dun-radier-beton-pour-la-pose-dun-spa",
+  "type": "chantier-a-z",
+  "text": "Avant de mettre en SPA, pensez à faire de la maçonnerie en ordre !",
+  "wordCount": 14,
+  "services": [
+    "fourniture-et-pose-de-spa"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_1086_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1086_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_1053_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1053_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_1049_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1049_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 3,
+    "usable": 3,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

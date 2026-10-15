@@ -1,0 +1,64 @@
+{
+  "slug": "massif-mineral-terrain-de-petanque-gazon-plaque-amenagement-total-de-lexterieur-dune-villa",
+  "title": "Massif minéral - Terrain de pétanque - gazon plaqué aménagement total de l'extérieur d'une villa",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/massif-mineral-terrain-de-petanque-gazon-plaque-amenagement-total-de-lexterieur-dune-villa",
+  "type": "chantier-a-z",
+  "text": "Conception minéral avec sédums, gazon précultivé, massif minéral.",
+  "wordCount": 8,
+  "services": [
+    "engazonnement-en-semi-ou-en-precultive",
+    "massifs-mineral-et-jardin-japonais"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_0322_1200x900_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0322_1200x900_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0320_1200x900_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0320_1200x900_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0300_1200x900_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0300_1200x900_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0297_1200x900_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0297_1200x900_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 4,
+    "usable": 4,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

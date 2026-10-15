@@ -1,0 +1,94 @@
+{
+  "slug": "terrasse-en-meleze-escalier-amenagement-dun-chalet",
+  "title": "Terrasse en mélèze, escalier, aménagement d'un chalet",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/terrasse-en-meleze-escalier-amenagement-dun-chalet",
+  "type": "chantier-a-z",
+  "text": "Aménagement extérieur d'un chalet, terrasse en bois mélèze, création d'un long escalier d'accès.",
+  "wordCount": 13,
+  "services": [
+    "escaliers",
+    "terrasses-en-bois-naturel-ou-en-wpc"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_0001_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0001_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasse-en-meleze-escalier-amenagement-dun-chalet/img_0001_1280x960.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0005_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0005_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasse-en-meleze-escalier-amenagement-dun-chalet/img_0005_1280x960.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0041_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0041_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasse-en-meleze-escalier-amenagement-dun-chalet/img_0041_1280x960.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0075_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0075_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasse-en-meleze-escalier-amenagement-dun-chalet/img_0075_1280x960.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0077_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0077_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasse-en-meleze-escalier-amenagement-dun-chalet/img_0077_1280x960.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0037_1280x960_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0037_1280x960_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasse-en-meleze-escalier-amenagement-dun-chalet/img_0037_1280x960_1.jpg"
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 6,
+    "usable": 6,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  },
+  "shortlist": true,
+  "rank": 8,
+  "family": "terrasses-pergolas",
+  "reason": "Warm larch terrace, stairs and hot tub at a chalet; good alternate terrace project (6 images, 840 px)."
+}

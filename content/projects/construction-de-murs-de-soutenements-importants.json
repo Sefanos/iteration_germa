@@ -1,0 +1,85 @@
+{
+  "slug": "construction-de-murs-de-soutenements-importants",
+  "title": "Construction de murs de soutènements importants",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/construction-de-murs-de-soutenements-importants",
+  "type": "chantier-a-z",
+  "text": "Création de murs de soutènement pour création de jardin\nLes talus inutilisables se transforment en jolis jardins.",
+  "wordCount": 17,
+  "services": [
+    "moyens-techniques-et-machines",
+    "murs-de-soutenement-ou-de-separation",
+    "talus"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_0234_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0234_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/290_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/290_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/249_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/249_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/200_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/200_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/180_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/180_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/157_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/157_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 6,
+    "usable": 6,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

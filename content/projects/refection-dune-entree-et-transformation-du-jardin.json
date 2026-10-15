@@ -1,0 +1,139 @@
+{
+  "slug": "refection-dune-entree-et-transformation-du-jardin",
+  "title": "Réfection d'une entrée et transformation du jardin",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/refection-dune-entree-et-transformation-du-jardin",
+  "type": "chantier-a-z",
+  "text": "Changement de design d'une entrée, création d'un chemin et massif dans le jardin.",
+  "wordCount": 13,
+  "services": [
+    "bacs-et-balcons",
+    "plantation-et-fournitures-de-vegetaux"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/apres_19_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/apres_19_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "after"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/apres_14_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/apres_14_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "after"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/apres_11_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/apres_11_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "after"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/apres_1_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/apres_1_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "after"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/pendant_travaux_5_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/pendant_travaux_5_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/pendant_travaux_6_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/pendant_travaux_6_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20160720_112715_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20160720_112715_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20160912_124015_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20160912_124015_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20160720_102442_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20160720_102442_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/projet_amenagement_6_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/projet_amenagement_6_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/avant_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/avant_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "before"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 11,
+    "usable": 11,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

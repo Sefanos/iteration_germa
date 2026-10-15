@@ -1,0 +1,73 @@
+{
+  "slug": "realisation-dun-murabloc-de-separation",
+  "title": "Réalisation d'un murabloc de séparation",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/realisation-dun-murabloc-de-separation",
+  "type": "chantier-a-z",
+  "text": "Murabloc de séparation entre deux propriétés avec haie plantée sur le dessus et couvertine.",
+  "wordCount": 14,
+  "services": [
+    "murs-de-soutenement-ou-de-separation"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/bes4_003_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/bes4_003_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0073_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0073_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0040_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0040_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0035_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0035_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0018_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0018_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 5,
+    "usable": 5,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

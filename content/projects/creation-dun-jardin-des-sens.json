@@ -1,0 +1,73 @@
+{
+  "slug": "creation-dun-jardin-des-sens",
+  "title": "Création d'un jardin des sens",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/creation-dun-jardin-des-sens",
+  "type": "chantier-a-z",
+  "text": "Pour une fondation spécialisée, création d'un jardin des sens.",
+  "wordCount": 9,
+  "services": [
+    "plantation-et-fournitures-de-vegetaux"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/s7000431_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000431_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000433_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000433_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000432_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000432_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img015_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img015_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img009_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img009_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 5,
+    "usable": 5,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

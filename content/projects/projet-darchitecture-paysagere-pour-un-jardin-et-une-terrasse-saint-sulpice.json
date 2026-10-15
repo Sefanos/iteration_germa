@@ -1,0 +1,75 @@
+{
+  "slug": "projet-darchitecture-paysagere-pour-un-jardin-et-une-terrasse-saint-sulpice",
+  "title": "Projet d'architecture paysagère pour un jardin et une terrasse à Saint-Sulpice",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/projet-darchitecture-paysagere-pour-un-jardin-et-une-terrasse-saint-sulpice",
+  "type": "chantier-a-z",
+  "text": "Projet d'architecture paysagère pour un jardin et une terrasse à Saint-Sulpice",
+  "wordCount": 11,
+  "services": [
+    "conceptions-par-un-architecte-paysagiste",
+    "terrasses-en-bois-naturel-ou-en-wpc"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/proposition_avant-projet_image_ambiance_saint-sulpice.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/proposition_avant-projet_image_ambiance_saint-sulpice.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "before",
+        "3d-projection"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/proposition_projet_plan_saint-sulpice.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/proposition_projet_plan_saint-sulpice.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "design-drawing"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/proposition_avant-projet_plan_saint-sulpice.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/proposition_avant-projet_plan_saint-sulpice.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "before",
+        "design-drawing"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/proposition_projet_image_ambiance_saint-sulpice_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/proposition_projet_image_ambiance_saint-sulpice_0.jpg",
+      "width": 320,
+      "height": 240,
+      "flags": [
+        "low-res",
+        "exclude",
+        "3d-projection"
+      ],
+      "notes": [
+        "too small to use (< 500 px)"
+      ]
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": "Saint-Sulpice",
+  "locationHintsFromFilenames": [
+    "Saint-Sulpice"
+  ],
+  "stats": {
+    "images": 4,
+    "usable": 3,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

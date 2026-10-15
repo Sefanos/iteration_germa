@@ -1,0 +1,45 @@
+{
+  "slug": "creation-dun-support-et-dune-surface-dacces-prete-pour-la-pose-de-lenrobe-mont-sur-rolle",
+  "title": "Création d’un support et d’une surface d’accès prête pour la pose de l’enrobé à Mont-sur-Rolle",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/creation-dun-support-et-dune-surface-dacces-prete-pour-la-pose-de-lenrobe-mont-sur-rolle",
+  "type": "chantier-a-z",
+  "text": "Création d’un support et d’une surface d’accès prête pour la pose de l’enrobé à Mont-sur-Rolle",
+  "wordCount": 15,
+  "services": [
+    "parking"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/creation_dun_support_de_pose_et_dune_surface_dacces_prete_pour_la_pose_de_lenrobe_a_mont-sur-rolle_fin_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/creation_dun_support_de_pose_et_dune_surface_dacces_prete_pour_la_pose_de_lenrobe_a_mont-sur-rolle_fin_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/creation_dun_support_de_pose_et_dune_surface_dacces_prete_pour_la_pose_de_lenrobe_a_mont-sur-rolle_debut.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/creation_dun_support_de_pose_et_dune_surface_dacces_prete_pour_la_pose_de_lenrobe_a_mont-sur-rolle_debut.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": "Mont-sur-Rolle",
+  "locationHintsFromFilenames": [
+    "Mont-sur-Rolle"
+  ],
+  "stats": {
+    "images": 2,
+    "usable": 2,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

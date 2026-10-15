@@ -1,0 +1,33 @@
+{
+  "slug": "biotope-0",
+  "title": "Biotope",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/biotope-0",
+  "type": "chantier-a-z",
+  "text": "",
+  "wordCount": 0,
+  "services": [
+    "piece-deau"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/image3_1600x1195_1_0.jpeg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/image3_1600x1195_1_0.jpeg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 1,
+    "usable": 1,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

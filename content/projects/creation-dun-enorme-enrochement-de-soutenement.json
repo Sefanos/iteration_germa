@@ -1,0 +1,93 @@
+{
+  "slug": "creation-dun-enorme-enrochement-de-soutenement",
+  "title": "Création d'un énorme enrochement de soutènement",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/creation-dun-enorme-enrochement-de-soutenement",
+  "type": "chantier-a-z",
+  "text": "Un enrochement de 30ml de long sur 5ml de haut, ce n'est pas courant.\nPourtant cette solution économique permet de transformer votre talus en plat et de vous offrir un jardin.",
+  "wordCount": 31,
+  "services": [
+    "enrochement-dagrement-et-de-soutenement"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_0614_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0614_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0611_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0611_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0598_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0598_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0592_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0592_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0545.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0545.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0537.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0537.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0536.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0536.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 7,
+    "usable": 7,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

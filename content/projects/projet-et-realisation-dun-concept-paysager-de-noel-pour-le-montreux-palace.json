@@ -1,0 +1,139 @@
+{
+  "slug": "projet-et-realisation-dun-concept-paysager-de-noel-pour-le-montreux-palace",
+  "title": "Projet et réalisation d'un concept paysager de Noël pour le Montreux Palace",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/projet-et-realisation-dun-concept-paysager-de-noel-pour-le-montreux-palace",
+  "type": "chantier-a-z",
+  "text": "Projet et réalisation d'un concept paysager de Noël pour le Montreux Palace.",
+  "wordCount": 12,
+  "services": [
+    "conceptions-par-un-architecte-paysagiste"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/47386222_2419697611380188_4283409474581954560_o.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/47386222_2419697611380188_4283409474581954560_o.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "facebook"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/47469084_2419697604713522_3301280505596477440_n.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/47469084_2419697604713522_3301280505596477440_n.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "facebook"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/47493511_2419697634713519_4339538714251231232_n_2_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/47493511_2419697634713519_4339538714251231232_n_2_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "facebook"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/47680168_2419697674713515_1834642267428618240_n_2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/47680168_2419697674713515_1834642267428618240_n_2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "facebook"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/bouleau-tronc-noel_v1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/bouleau-tronc-noel_v1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/bouleau-tronc-noel_v2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/bouleau-tronc-noel_v2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/bouleau-tronc-noel_v3.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/bouleau-tronc-noel_v3.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/bouleau-tronc-noel_v4.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/bouleau-tronc-noel_v4.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/bouleau-tronc-noel_v5.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/bouleau-tronc-noel_v5.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/noel-montreux-palace_germapaysages_a4_-1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/noel-montreux-palace_germapaysages_a4_-1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/noel-montreux-palace_germapaysages_a4_-2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/noel-montreux-palace_germapaysages_a4_-2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": "Montreux",
+  "locationHintsFromFilenames": [
+    "Montreux"
+  ],
+  "stats": {
+    "images": 11,
+    "usable": 11,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "noel-concepts-darchitectures-paysageres-de-noel-pour-lusine-cailler-broc",
+  "title": "Noël : Concepts d'architectures paysagères de Noël pour l'Usine Cailler à Broc",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/noel-concepts-darchitectures-paysageres-de-noel-pour-lusine-cailler-broc",
+  "type": "chantier-a-z",
+  "text": "Noël : Concepts d'architectures paysagères de Noël pour l'Usine Cailler à Broc",
+  "wordCount": 12,
+  "services": [
+    "conceptions-par-un-architecte-paysagiste"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/20181212_085925-a_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20181212_085925-a_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20181212_090003-a.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20181212_090003-a.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20181212_090045.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20181212_090045.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20181212_085858.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20181212_085858.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/broc_noel.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/broc_noel.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": "Broc",
+  "locationHintsFromFilenames": [
+    "Broc"
+  ],
+  "stats": {
+    "images": 5,
+    "usable": 5,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

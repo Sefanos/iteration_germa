@@ -1,0 +1,65 @@
+{
+  "slug": "realisation-dun-projet-darchitecture-paysagere-pour-le-parc-dun-lotissement-monthey",
+  "title": "Réalisation d'un projet d'architecture paysagère pour le parc d'un lotissement à Monthey",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/realisation-dun-projet-darchitecture-paysagere-pour-le-parc-dun-lotissement-monthey",
+  "type": "chantier-a-z",
+  "text": "Réalisation d'un projet d'architecture paysagère pour le parc d'un lotissement à Monthey.",
+  "wordCount": 12,
+  "services": [
+    "conceptions-par-un-architecte-paysagiste",
+    "massifs-mineral-et-jardin-japonais"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/image_ref_1_0_0.png",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/image_ref_1_0_0.png",
+      "width": 1512,
+      "height": 2016,
+      "flags": [
+        "3d-projection"
+      ],
+      "notes": [
+        "reviewed: Monthey residential park render with human silhouettes; close viewpoint to the photo 20180912_083119_2_2_1_0.jpg"
+      ],
+      "local": "content/media/realisation-dun-projet-darchitecture-paysagere-pour-le-parc-dun-lotissement-monthey/image_ref_1_0_0.png"
+    },
+    {
+      "path": "/sites/default/files/2023-04/20190531_130517_2_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20190531_130517_2_0.jpg",
+      "width": 2265,
+      "height": 2674,
+      "flags": [],
+      "notes": [
+        "reviewed: Monthey park planting close-up (grasses, flowering perennials); portrait 2265×2674; good texture/detail image"
+      ],
+      "local": "content/media/realisation-dun-projet-darchitecture-paysagere-pour-le-parc-dun-lotissement-monthey/20190531_130517_2_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/20180912_083119_2_2_1_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20180912_083119_2_2_1_0.jpg",
+      "width": 3024,
+      "height": 2613,
+      "flags": [
+        "after"
+      ],
+      "notes": [
+        "reviewed: Monthey residential park as built; 3024 px, the only large finished-project photo (urban street, not hero material)"
+      ],
+      "local": "content/media/realisation-dun-projet-darchitecture-paysagere-pour-le-parc-dun-lotissement-monthey/20180912_083119_2_2_1_0.jpg"
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": "Monthey",
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 3,
+    "usable": 3,
+    "longEdgeMax": 3024,
+    "usableAtLeast1200": 3
+  },
+  "shortlist": true,
+  "rank": 7,
+  "family": "conception",
+  "reason": "Render → built pair with the only large finished photos (2265–3024 px). Urban setting and only 3 images, so better in chapter 05 than in the gallery."
+}

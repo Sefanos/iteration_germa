@@ -1,0 +1,71 @@
+{
+  "slug": "ajout-de-places-de-parcs",
+  "title": "Ajout de places de parcs",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/ajout-de-places-de-parcs",
+  "type": "chantier-a-z",
+  "text": "Transformation de l'avant d'une maison pour l'agrandissement de place de parc",
+  "wordCount": 11,
+  "services": [
+    "drainage-canalisation"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/dumu_007_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/dumu_007_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/dumu_006_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/dumu_006_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/dumu_005_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/dumu_005_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/dumu_001_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/dumu_001_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 4,
+    "usable": 4,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

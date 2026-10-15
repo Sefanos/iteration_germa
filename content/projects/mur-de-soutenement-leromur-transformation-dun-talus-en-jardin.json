@@ -1,0 +1,99 @@
+{
+  "slug": "mur-de-soutenement-leromur-transformation-dun-talus-en-jardin",
+  "title": "Mur de soutènement Leromur transformation d'un talus en jardin",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/mur-de-soutenement-leromur-transformation-dun-talus-en-jardin",
+  "type": "chantier-a-z",
+  "text": "Un talus transformé en nouveau plat\nLeromur de Créabéton\nCe type de chantier nécessite une grande expérience.",
+  "wordCount": 17,
+  "services": [
+    "clotures-et-portails",
+    "dallages-et-pavages",
+    "engazonnement-en-semi-ou-en-precultive",
+    "escaliers",
+    "murs-de-soutenement-ou-de-separation",
+    "pierre-naturelle-au-sol",
+    "pierre-naturelle-en-facade"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_1209_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1209_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_1187_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1187_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_1099_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1099_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0931_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0931_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0758_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0758_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0706_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0706_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0689_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0689_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 7,
+    "usable": 7,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

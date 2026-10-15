@@ -1,0 +1,408 @@
+{
+  "jardins36_2_0.jpg": {
+    "addFlags": [
+      "exclude"
+    ],
+    "note": "garden in Greece built with local partners (page « Découvrez ici tous nos jardins grecs »), not Swiss work"
+  },
+  "the_hellenic_garden_flatten_1600x704.jpg": {
+    "addFlags": [
+      "exclude"
+    ],
+    "note": "garden in Greece built with local partners, not Swiss work"
+  },
+  "pergola-bioclimatique.jpg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "addFlags": [
+      "3d-projection"
+    ],
+    "note": "reviewed: 3D render of a pergola (« Pergola bioclimatique en 3D »); unclear whether Germa's own render or a manufacturer configurator; confirm"
+  },
+  "pergola-bioclimatique_2.jpg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "addFlags": [
+      "3d-projection"
+    ],
+    "note": "reviewed: 3D render of a pergola; origin to confirm"
+  },
+  "revetement1.jpeg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "note": "reviewed: phone photo of resin-coated steps; origin unverified (Germa job or supplier); confirm before use"
+  },
+  "revetement2.jpeg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "note": "origin unverified (Germa job or resin supplier); confirm before use"
+  },
+  "revetement3.jpeg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "note": "origin unverified (Germa job or resin supplier); confirm before use"
+  },
+  "revetement4.jpeg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "note": "origin unverified (Germa job or resin supplier); confirm before use"
+  },
+  "revetement5.jpeg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "note": "origin unverified (Germa job or resin supplier); confirm before use"
+  },
+  "revetement6.jpeg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "note": "origin unverified (Germa job or resin supplier); confirm before use"
+  },
+  "revetement7.jpeg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "note": "origin unverified (Germa job or resin supplier); confirm before use"
+  },
+  "revetement8.jpeg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "note": "origin unverified (Germa job or resin supplier); confirm before use"
+  },
+  "revetement9.jpeg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "note": "origin unverified (Germa job or resin supplier); confirm before use"
+  },
+  "revetements_0.jpeg": {
+    "removeFlags": [
+      "supplier",
+      "exclude"
+    ],
+    "note": "origin unverified (Germa job or resin supplier); confirm before use"
+  },
+  "piscine1.jpg": {
+    "note": "reviewed: polished pool marketing shot on the Magiline partner page; treat as supplier until Germa confirms it is their installation"
+  },
+  "pers_internet.jpg": {
+    "note": "reviewed: Germa 3D design render (pool + pergola concept)"
+  },
+  "pers_internet2.jpg": {
+    "note": "reviewed: Germa 3D design render (garden concept)"
+  },
+  "pers_internet_variante_5.jpeg": {
+    "note": "reviewed: Germa 3D design render with painted vignette edge; used on the current homepage"
+  },
+  "boussens_4d_3_beige_1600x900_1.jpg": {
+    "note": "reviewed: Germa 3D render of a terrace and pergola concept (Boussens)"
+  },
+  "c4d-debio_travail_rendu_detente_1_1600x900_1.jpg": {
+    "note": "reviewed: Cinema 4D render of a staff relaxation area for a pharmaceutical company; business name in filename"
+  },
+  "pergola_open_751_1600x1065.jpg": {
+    "note": "reviewed: manufacturer-style catalogue photo"
+  },
+  "open_17_750_1208x1200_1.jpg": {
+    "note": "reviewed: manufacturer-style catalogue photo"
+  },
+  "germa-showroom1.png": {
+    "addFlags": [
+      "exclude"
+    ],
+    "note": "this is the GERMA Showroom logo, not a photo; copied to content/brand/germa-showroom-logo.png"
+  },
+  "realisation_3.jpg": {
+    "addFlags": [
+      "after"
+    ],
+    "note": "reviewed: built result of the Saint-Maurice entrance (boulder, black posts, dark gravel)"
+  },
+  "etat_initial_1.jpg": {
+    "note": "reviewed: Saint-Maurice état initial (boulder, pallets, scaffolding)"
+  },
+  "projection_2.jpg": {
+    "note": "reviewed: Saint-Maurice photomontage projection, close to the état initial viewpoint"
+  },
+  "etat_initial_-2_2.jpg": {
+    "note": "reviewed: Saint-Maurice état initial, street corner; exact same framing as projection_-2_2.jpg"
+  },
+  "projection_-2_2.jpg": {
+    "note": "reviewed: Saint-Maurice photomontage projection; exact same framing as etat_initial_-2_2.jpg"
+  },
+  "etat_initial.jpg": {
+    "note": "reviewed: Randogne état initial; same framing as projection_1.jpg"
+  },
+  "projection_1.jpg": {
+    "note": "reviewed: Randogne photomontage projection (porch/carport and planting added); same framing as etat_initial.jpg"
+  },
+  "image_ref_1_0_0.png": {
+    "addFlags": [
+      "3d-projection"
+    ],
+    "note": "reviewed: Monthey residential park render with human silhouettes; close viewpoint to the photo 20180912_083119_2_2_1_0.jpg"
+  },
+  "20180912_083119_2_2_1_0.jpg": {
+    "addFlags": [
+      "after"
+    ],
+    "note": "reviewed: Monthey residential park as built; 3024 px, the only large finished-project photo (urban street, not hero material)"
+  },
+  "20190531_130517_2_0.jpg": {
+    "note": "reviewed: Monthey park planting close-up (grasses, flowering perennials); portrait 2265×2674; good texture/detail image"
+  },
+  "habillage_descalier_a_gilly_avant.jpg": {
+    "note": "reviewed: Gilly stairs before; approximate pair with habillage_descalier_a_gilly_apres.jpg (different angle)"
+  },
+  "habillage_descalier_a_gilly_apres.jpg": {
+    "note": "reviewed: Gilly stairs after (black stone cladding); different angle from the before"
+  },
+  "avant_9_1600x900.jpg": {
+    "note": "reviewed: gabion project before (overgrown slope); approximate pair with apres_1_1600x900_1.jpg"
+  },
+  "apres_1_1600x900_1.jpg": {
+    "note": "reviewed: gabion project after (gabion wall, planting); approximate pair with avant_9_1600x900.jpg"
+  },
+  "beau_rivage_palace_-_germa1.jpeg": {
+    "addFlags": [
+      "pro",
+      "hero-candidate"
+    ],
+    "note": "reviewed: professional night shot, planters and lighting at the Beau-Rivage Palace; 1440×961 → framed hero only; photo rights and client-name permission to confirm"
+  },
+  "9_1.jpg": {
+    "addFlags": [
+      "hero-candidate"
+    ],
+    "note": "reviewed: Chermignon, flagstone stepping-stone path through lawn, bollard lights, larch fence, forest; 1920×1440 → framed hero"
+  },
+  "7_1.jpg": {
+    "addFlags": [
+      "hero-candidate"
+    ],
+    "note": "reviewed: Chermignon, natural-stone stairs along the chalet, weeping larch, lights; 1920×1440 → framed hero"
+  },
+  "12_1.jpg": {
+    "addFlags": [
+      "hero-candidate"
+    ],
+    "note": "reviewed: Chermignon, sedum rockery with stone blocks below the chalet; 1920×1440 → framed hero"
+  },
+  "plantations-chablais-bonzai-jardin_japonais.jpg": {
+    "addFlags": [
+      "hero-candidate"
+    ],
+    "note": "reviewed: Japanese garden in the Chablais, cloud-pruned pine on a moss mound, raked gravel; 1600×1200 → framed hero"
+  },
+  "spa_-_villars-sur-ollon_0.jpeg": {
+    "addFlags": [
+      "hero-candidate",
+      "upscale-candidate"
+    ],
+    "note": "reviewed: hot tub on a timber deck facing the Alps (Villars-sur-Ollon); strong composition but 1024×768"
+  },
+  "119_0.jpg": {
+    "addFlags": [
+      "upscale-candidate"
+    ],
+    "note": "reviewed: kidney pool, flagstone surround, lake and Alps view; 1280×960; shown as the « Piscines » tile, so origin (Germa vs Magiline marketing) to confirm before use"
+  },
+  "photos_chantiers_dom_091.jpg": {
+    "addFlags": [
+      "upscale-candidate"
+    ],
+    "note": "reviewed: raked-gravel zen garden with standing stones (Chablais); graphic, only 840×458"
+  },
+  "photos_chantiers_dom_089.jpg": {
+    "addFlags": [
+      "upscale-candidate"
+    ],
+    "note": "reviewed: cloud-pruned pine on moss mound with mountains behind (Chablais); only 840×458"
+  },
+  "img_1543_1600x1200_1.jpg": {
+    "addFlags": [
+      "upscale-candidate"
+    ],
+    "note": "reviewed: Villars-sur-Ollon chalet, larch deck with hot tub, rockery; only 840×458"
+  },
+  "539_1600x1200_0.jpg": {
+    "addFlags": [
+      "upscale-candidate"
+    ],
+    "note": "reviewed: view of Lake Geneva and the Alps from the hotel rooftop terraces; a view, not Germa's planting; only 840×458"
+  },
+  "img_1047_1600x1200.jpg": {
+    "addFlags": [
+      "upscale-candidate"
+    ],
+    "note": "reviewed: terraced larch retaining walls and composite deck on a slope (« Un chantier sans accès »); only 840×458"
+  },
+  "coupes_travail_1_0.jpg": {
+    "addFlags": [
+      "design-drawing"
+    ],
+    "note": "reviewed: Chermignon working section/elevation drawing, 4795×1600; the only file wide enough for full-bleed use (as a drawing, e.g. the « Imaginer » plan layer)"
+  },
+  "coupes_travail_2_0.jpg": {
+    "addFlags": [
+      "design-drawing"
+    ],
+    "note": "reviewed: Chermignon section drawing, 3619×1384"
+  },
+  "image_ambiance_massif_1_0.jpg": {
+    "note": "reviewed: Chermignon planting-bed render (panoramic strip)"
+  },
+  "image_ambiance_massif_3_0.jpg": {
+    "note": "reviewed: Chermignon planting-bed render (rockery with perennials)"
+  },
+  "image_ambiance_massif_5_0.jpg": {
+    "note": "reviewed: Chermignon planting-bed render (panoramic strip, 2644×438)"
+  },
+  "croquis_main_broc.jpg": {
+    "note": "hand sketch for the Usine Cailler seasonal garden (Broc)"
+  },
+  "projects": {
+    "architecture-paysagere-et-amenagement-du-jardin-dun-chalet-de-maitre-chermignon": {
+      "featured": true,
+      "shortlist": true,
+      "rank": 1,
+      "family": "conception",
+      "reason": "Best photos on the site (1440–1920 px): alpine chalet garden with natural-stone stairs, stepping stones, rockery and lighting, plus section drawings and planting renders, so it tells the full idea → built story.",
+      "heroImage": "9_1.jpg"
+    },
+    "creation-dun-jardin-japonais-chablais": {
+      "featured": true,
+      "shortlist": true,
+      "rank": 2,
+      "family": "amenagement-plantation",
+      "reason": "Most distinctive garden in the archive: raked-gravel zen garden, cloud-pruned pine, standing stones, mountain backdrop; 8 finished views. Photos are 840 px, so it needs originals or upscaling.",
+      "heroImage": "photos_chantiers_dom_091.jpg"
+    },
+    "paysagiste-villars-sur-ollon-amenagement-jardin-spa-enrochement": {
+      "featured": true,
+      "shortlist": true,
+      "rank": 3,
+      "family": "piscines-spas-bassins",
+      "reason": "Alpine chalet with hot tub on a larch deck, rock walls and planting; covers spa plus stone work in a mountain setting; 6 finished views (840 px).",
+      "heroImage": "img_1543_1600x1200_1.jpg"
+    },
+    "un-chantier-sans-acces": {
+      "featured": true,
+      "shortlist": true,
+      "rank": 4,
+      "family": "terrasses-pergolas",
+      "reason": "Geometric terraced larch retaining walls and deck on a steep slope, plus a strong « no access » story (machines craned in) told in the longest project text (41 words); 6 finished views (840 px).",
+      "heroImage": "img_1047_1600x1200.jpg"
+    },
+    "mur-en-pierre-de-st-leonard-et-terrasse-en-pierre-naturelle": {
+      "featured": true,
+      "shortlist": true,
+      "rank": 5,
+      "family": "murs-enrochements-pierre",
+      "reason": "Curved dry-stone wall in St-Léonard stone and a natural-stone terrace, documented from rubble to finish; represents the stone and retaining-wall craft (12 images, 840 px).",
+      "heroImage": "a_12_1280x960.jpg"
+    },
+    "projet-dachitecture-paysagere-realisation-dune-entree-de-maison-saint-maurice": {
+      "featured": true,
+      "shortlist": true,
+      "rank": 6,
+      "family": "conception",
+      "reason": "The clearest « de l'idée à la réalisation » proof: état initial, photomontage projection and built result of the same entrance (boulder, black posts, grasses). Only 5 images (840 px), so it is chosen for the story rather than photo count.",
+      "heroImage": "realisation_3.jpg"
+    },
+    "realisation-dun-projet-darchitecture-paysagere-pour-le-parc-dun-lotissement-monthey": {
+      "featured": false,
+      "shortlist": true,
+      "rank": 7,
+      "family": "conception",
+      "reason": "Render → built pair with the only large finished photos (2265–3024 px). Urban setting and only 3 images, so better in chapter 05 than in the gallery."
+    },
+    "terrasse-en-meleze-escalier-amenagement-dun-chalet": {
+      "featured": false,
+      "shortlist": true,
+      "rank": 8,
+      "family": "terrasses-pergolas",
+      "reason": "Warm larch terrace, stairs and hot tub at a chalet; good alternate terrace project (6 images, 840 px)."
+    },
+    "amenagement-important-sur-la-riviera": {
+      "featured": false,
+      "shortlist": true,
+      "rank": 9,
+      "family": "murs-enrochements-pierre",
+      "reason": "Architectural terraced larch walls and stairs on a Riviera slope; alternate for timber/retaining (6 images)."
+    },
+    "terrasses-des-suites-dun-hotel": {
+      "featured": false,
+      "shortlist": true,
+      "rank": 10,
+      "family": "terrasses-pergolas",
+      "reason": "Rooftop terraces of hotel suites with a lake-and-Alps view and a crane-lift story (also a YouTube video). Prestige project, but the decking photos are plain and the hotel name needs permission."
+    }
+  },
+  "hero": [
+    {
+      "file": "beau_rivage_palace_-_germa1.jpeg",
+      "rank": 1
+    },
+    {
+      "file": "9_1.jpg",
+      "rank": 2
+    },
+    {
+      "file": "7_1.jpg",
+      "rank": 3
+    },
+    {
+      "file": "plantations-chablais-bonzai-jardin_japonais.jpg",
+      "rank": 4
+    },
+    {
+      "file": "12_1.jpg",
+      "rank": 5
+    },
+    {
+      "file": "spa_-_villars-sur-ollon_0.jpeg",
+      "rank": 6
+    }
+  ],
+  "jardin_japonais_0.jpg": {
+    "addFlags": [
+      "exclude"
+    ],
+    "note": "reviewed: mature Japanese pond garden with bridge (services tile); looks like a stock or inspiration image, not a Germa project; exclude unless Germa confirms"
+  },
+  "img_0229-modifier_1600x1103_0.jpg": {
+    "addFlags": [
+      "upscale-candidate"
+    ],
+    "note": "reviewed: hot tub on a timber deck facing Lake Geneva at sunset; 1600×1103; strong alternate hero, but it is on the spa partner page, so confirm it is a Germa installation"
+  },
+  "img_0698_1600x1200_0.jpg": {
+    "note": "reviewed: rooftop terrace with hedges in anthracite planters and a lake/Alps view (likely the hotel-suites terraces); 1600×1200"
+  },
+  "dji_0074_1_0.png": {
+    "note": "reviewed: drone aerial of a residential development (lawn-mowing service page); proves Germa has drone footage, so ask for originals"
+  },
+  "p6290024_1600x1200_0.jpg": {
+    "note": "reviewed: meadow daisies close-up; texture/detail image"
+  }
+}

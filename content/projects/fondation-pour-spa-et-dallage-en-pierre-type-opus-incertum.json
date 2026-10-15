@@ -1,0 +1,124 @@
+{
+  "slug": "fondation-pour-spa-et-dallage-en-pierre-type-opus-incertum",
+  "title": "Fondation pour SPA et dallage en pierre type Opus incertum",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/fondation-pour-spa-et-dallage-en-pierre-type-opus-incertum",
+  "type": "chantier-a-z",
+  "text": "Gros réaménagement sur le pourtour d'une villa comprenant la création de terrasse, les fondations pour le SPA.",
+  "wordCount": 17,
+  "services": [
+    "dallages-et-pavages",
+    "pierre-naturelle-au-sol"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_0748_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0748_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0747_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0747_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0725_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0725_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0716_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0716_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0685_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0685_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0678_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0678_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0672_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0672_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0641_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0641_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/dsc_1184_1600x1066.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/dsc_1184_1600x1066.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/dsc_1117_1600x1066.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/dsc_1117_1600x1066.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 10,
+    "usable": 10,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

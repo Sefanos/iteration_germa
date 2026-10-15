@@ -1,0 +1,136 @@
+{
+  "slug": "realisation-dun-amenagement-complet",
+  "title": "Réalisation d'un aménagement complet",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/realisation-dun-amenagement-complet",
+  "type": "chantier-a-z",
+  "text": "Aménagements extérieurs complets autour d'un chalet.",
+  "wordCount": 6,
+  "services": [
+    "dallages-et-pavages",
+    "drainage-canalisation",
+    "engazonnement-en-semi-ou-en-precultive",
+    "plantation-et-fournitures-de-vegetaux"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/356_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/356_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/413_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/413_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/350_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/350_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/336_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/336_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/334_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/334_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/331_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/331_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/328_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/328_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/322_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/322_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/319_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/319_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/309_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/309_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/299_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/299_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 11,
+    "usable": 11,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

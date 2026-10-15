@@ -1,0 +1,125 @@
+{
+  "slug": "creation-dune-terrasse-et-soutenement-en-gabions",
+  "title": "Création d'une terrasse et soutènement en gabions",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/creation-dune-terrasse-et-soutenement-en-gabions",
+  "type": "chantier-a-z",
+  "text": "Création d'une nouvelle terrasse posé sur des gabions de soutènement",
+  "wordCount": 10,
+  "services": [
+    "dallages-et-pavages",
+    "gabions-de-separation-ou-de-soutenement"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/fini_15_1600x900_2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/fini_15_1600x900_2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/apres_1_1600x900_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/apres_1_1600x900_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "after"
+      ],
+      "notes": [
+        "reviewed: gabion project after (gabion wall, planting); approximate pair with avant_9_1600x900.jpg"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/fini_4_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/fini_4_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/penant_travaux_22_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/penant_travaux_22_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/pendant_travaux_2_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/pendant_travaux_2_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/penant_travaux_3_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/penant_travaux_3_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/pendant_travaux_10_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/pendant_travaux_10_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/avant_2_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/avant_2_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "before"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/avant_9_1600x900.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/avant_9_1600x900.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "before"
+      ],
+      "notes": [
+        "reviewed: gabion project before (overgrown slope); approximate pair with apres_1_1600x900_1.jpg"
+      ]
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 9,
+    "usable": 9,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

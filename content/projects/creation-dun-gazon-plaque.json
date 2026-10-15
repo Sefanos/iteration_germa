@@ -1,0 +1,114 @@
+{
+  "slug": "creation-dun-gazon-plaque",
+  "title": "Création d'un gazon plaqué",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/creation-dun-gazon-plaque",
+  "type": "chantier-a-z",
+  "text": "Réfection d'une surface en gazon après un évenement en temps record.\nVous souhaitez immédiatement un beau gazon ? Vous êtes au bon endroit.",
+  "wordCount": 23,
+  "services": [
+    "engazonnement-en-semi-ou-en-precultive",
+    "gabions-de-separation-ou-de-soutenement"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/s7000344_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000344_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000344_1280x960_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000344_1280x960_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000354_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000354_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000363_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000363_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000372_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000372_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000374_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000374_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000396_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000396_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000403_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000403_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000399_1280x960_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000399_1280x960_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 9,
+    "usable": 9,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

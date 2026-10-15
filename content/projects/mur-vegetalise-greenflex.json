@@ -1,0 +1,31 @@
+{
+  "slug": "mur-vegetalise-greenflex",
+  "title": "Mur végétalisé greenflex",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/mur-vegetalise-greenflex",
+  "type": "chantier-a-z",
+  "text": "",
+  "wordCount": 0,
+  "services": [],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/3_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/3_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 1,
+    "usable": 1,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "cailler-concepts-darchitectures-paysageres-de-saisons-pour-lusine-cailler-broc",
+  "title": "Cailler : Concepts d'architectures paysagères de saisons pour l'Usine Cailler à Broc",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/cailler-concepts-darchitectures-paysageres-de-saisons-pour-lusine-cailler-broc",
+  "type": "chantier-a-z",
+  "text": "Cailler : Concepts d'architectures paysagères de saisons pour l'Usine Cailler à Broc",
+  "wordCount": 12,
+  "services": [
+    "conceptions-par-un-architecte-paysagiste"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/panorama_sans_titre2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/panorama_sans_titre2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "3d-projection"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/panorama_sans_titre1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/panorama_sans_titre1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "3d-projection"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20190612_160614_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20190612_160614_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20190612_160528.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20190612_160528.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20190612_160430.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20190612_160430.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20190612_160412.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20190612_160412.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20190612_160316.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20190612_160316.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20190612_160232_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20190612_160232_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/20190612_160223.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/20190612_160223.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/broc_normal.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/broc_normal.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/croquis_main_broc.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/croquis_main_broc.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "design-drawing"
+      ],
+      "notes": [
+        "hand sketch for the Usine Cailler seasonal garden (Broc)"
+      ]
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": "Broc",
+  "locationHintsFromFilenames": [
+    "Broc"
+  ],
+  "stats": {
+    "images": 11,
+    "usable": 11,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "refection-etancheite-et-place-de-jeux",
+  "title": "Réfection étanchéité et place de jeux",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/refection-etancheite-et-place-de-jeux",
+  "type": "chantier-a-z",
+  "text": "Pour une garderie qui avait un problème d'étanchéité, nous avons creusé sous la place de jeux.\nUn étancheur a refait la couche, puis nous avons remblayé et remis le tartan en place, ainsi que les jeux.",
+  "wordCount": 36,
+  "services": [
+    "drainage-canalisation",
+    "place-de-jeux-respectant-les-dernieres-normes-de-securite"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/s7000579_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000579_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000575_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000575_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000565_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000565_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000548_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000548_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000541_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000541_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000588_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000588_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 6,
+    "usable": 6,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

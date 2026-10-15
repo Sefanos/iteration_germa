@@ -1,0 +1,75 @@
+{
+  "slug": "modeles-de-constructions-de-cuves",
+  "title": "Modèles de constructions de cuves",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/modeles-de-constructions-de-cuves",
+  "type": "chantier-a-z",
+  "text": "",
+  "wordCount": 0,
+  "services": [
+    "cuves-de-recuperation-des-eaux-fluviales"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-08/Capture%20d%27e%CC%81cran%202023-07-19%20185248_0_0.png",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-08/Capture%20d%27e%CC%81cran%202023-07-19%20185248_0_0.png",
+      "width": 1051,
+      "height": 678,
+      "flags": [
+        "low-res",
+        "exclude"
+      ],
+      "notes": [
+        "screenshot"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-08/Capture%20d%27e%CC%81cran%202023-07-19%20185312.png",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-08/Capture%20d%27e%CC%81cran%202023-07-19%20185312.png",
+      "width": 1082,
+      "height": 622,
+      "flags": [
+        "low-res",
+        "exclude"
+      ],
+      "notes": [
+        "screenshot"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-08/Carat-Re%CC%81tention-100_1200_0_0.jpeg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-08/Carat-Re%CC%81tention-100_1200_0_0.jpeg",
+      "width": 1200,
+      "height": 626,
+      "flags": [
+        "supplier",
+        "exclude"
+      ],
+      "notes": [
+        "product photo (rainwater tank / robotic mower)"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-08/Platine-re%CC%81tention-100_1200_0.jpeg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-08/Platine-re%CC%81tention-100_1200_0.jpeg",
+      "width": 1200,
+      "height": 626,
+      "flags": [
+        "supplier",
+        "exclude"
+      ],
+      "notes": [
+        "product photo (rainwater tank / robotic mower)"
+      ]
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 4,
+    "usable": 0,
+    "longEdgeMax": 1200,
+    "usableAtLeast1200": 0
+  }
+}

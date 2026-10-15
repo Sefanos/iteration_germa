@@ -1,0 +1,96 @@
+{
+  "slug": "amenagement-important-sur-la-riviera",
+  "title": "Aménagement important sur la Riviera",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/amenagement-important-sur-la-riviera",
+  "type": "chantier-a-z",
+  "text": "Création d'un gros mur de soutènement en Leromur, implantation de clôture, soutènement en mélèze et escalier. Un grand projet terminé.",
+  "wordCount": 20,
+  "services": [
+    "clotures-et-portails",
+    "escaliers",
+    "murs-de-soutenement-ou-de-separation",
+    "terrassement-et-travaux-de-nivellement-du-sol"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/10.1_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/10.1_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/amenagement-important-sur-la-riviera/10.1_1280x960.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/6_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/6_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/amenagement-important-sur-la-riviera/6_1280x960.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/8.1_720x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/8.1_720x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/amenagement-important-sur-la-riviera/8.1_720x960.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/9_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/9_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/amenagement-important-sur-la-riviera/9_1280x960.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/11_720x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/11_720x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/amenagement-important-sur-la-riviera/11_720x960.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/10_1280x960_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/10_1280x960_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/amenagement-important-sur-la-riviera/10_1280x960_1.jpg"
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": "Riviera",
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 6,
+    "usable": 6,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  },
+  "shortlist": true,
+  "rank": 9,
+  "family": "murs-enrochements-pierre",
+  "reason": "Architectural terraced larch walls and stairs on a Riviera slope; alternate for timber/retaining (6 images)."
+}

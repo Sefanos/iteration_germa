@@ -1,0 +1,34 @@
+{
+  "slug": "decouvrez-ici-tous-nos-jardins-grecs",
+  "title": "Découvrez ici tous nos jardins grecs",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/decouvrez-ici-tous-nos-jardins-grecs",
+  "type": "chantier-a-z",
+  "text": "L'ensemble des jardins hélleniques.\nVoici des photos de jardins réalisés en Grèce. Grâce à nos partenaires locaux, nous pouvons réaliser le jardin de vos rêves à votre résidence secondaire sur place\ntout en vous offrant des garanties de qualités et de réalisations répondant aux plus hauts critères de qualités suisse.\nNous pouvons également pour votre jardin en Suisse, vous offrir (avec un choix limité de plantes et matériaux) un jardin héllenique.\nParcourez ces différentes photos à votre guise. Nous sommes à votre disposition pour toutes informations complémentaires.",
+  "wordCount": 87,
+  "services": [],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/jardins36_2_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/jardins36_2_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "exclude"
+      ],
+      "notes": [
+        "garden in Greece built with local partners (page « Découvrez ici tous nos jardins grecs »), not Swiss work"
+      ]
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 1,
+    "usable": 0,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

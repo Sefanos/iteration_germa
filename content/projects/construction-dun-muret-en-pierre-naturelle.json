@@ -1,0 +1,95 @@
+{
+  "slug": "construction-dun-muret-en-pierre-naturelle",
+  "title": "Construction d'un muret en pierre naturelle",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/construction-dun-muret-en-pierre-naturelle",
+  "type": "chantier-a-z",
+  "text": "Construction d'un muret en pierre naturelle",
+  "wordCount": 6,
+  "services": [
+    "murs-de-soutenement-ou-de-separation"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_6.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_6.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_5.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_5.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_4.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_4.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_3.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_3.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_1_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_1_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/construction_dun_muret_en_pierre_naturelle_a_laide_de_pierres_existantes_au_sol_dans_la_region_de_crans-montana_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [
+    "Crans-Montana"
+  ],
+  "stats": {
+    "images": 7,
+    "usable": 7,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

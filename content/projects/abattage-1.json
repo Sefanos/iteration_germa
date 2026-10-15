@@ -1,0 +1,63 @@
+{
+  "slug": "abattage-1",
+  "title": "Abattage",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/abattage-1",
+  "type": "chantier-a-z",
+  "text": "Abattage d'un grand arbre",
+  "wordCount": 4,
+  "services": [
+    "abattage"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/photo_2_10.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_2_10.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_2_6.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_2_6.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_2_5.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_2_5.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_2_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_2_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 4,
+    "usable": 4,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

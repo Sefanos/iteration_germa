@@ -1,0 +1,84 @@
+{
+  "slug": "amenagement-dun-balcon-sans-acces-en-centre-ville",
+  "title": "Aménagement d'un balcon sans accès en centre ville",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/amenagement-dun-balcon-sans-acces-en-centre-ville",
+  "type": "chantier-a-z",
+  "text": "Aménagement d'un balcon en centre ville\nMontage des bacs spéciaux pour extérieur au camion grue",
+  "wordCount": 15,
+  "services": [
+    "bacs-et-balcons",
+    "moyens-techniques-et-machines"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_0679_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0679_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0684_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0684_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0689_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0689_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0695_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0695_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0697_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0697_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0698_1600x1200_2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0698_1600x1200_2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 6,
+    "usable": 6,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

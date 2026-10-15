@@ -1,0 +1,63 @@
+{
+  "slug": "radier-beton-pour-spa-enterre",
+  "title": "Radier béton pour SPA enterré",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/radier-beton-pour-spa-enterre",
+  "type": "chantier-a-z",
+  "text": "Lorsqu'on investi dans un SPA pour son jardin, il vaut mieux prévoir des solides bases ! Nous sommes là pour vous offrir le meilleur travail.",
+  "wordCount": 25,
+  "services": [
+    "fourniture-et-pose-de-spa"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_0649_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0649_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0641_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0641_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0638_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0638_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0637_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0637_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 4,
+    "usable": 4,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

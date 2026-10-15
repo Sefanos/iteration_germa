@@ -1,0 +1,74 @@
+{
+  "slug": "renovation-dun-mur",
+  "title": "Rénovation d'un mur",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/renovation-dun-mur",
+  "type": "chantier-a-z",
+  "text": "Rénovation d'un mur.\nDémolition de l'ancien. Construction d'un nouveau mur.",
+  "wordCount": 10,
+  "services": [
+    "clotures-et-portails",
+    "murs-de-soutenement-ou-de-separation"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_0425_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0425_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0403_1600x1200_2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0403_1600x1200_2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0384_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0384_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0362_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0362_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0316_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0316_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 5,
+    "usable": 5,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

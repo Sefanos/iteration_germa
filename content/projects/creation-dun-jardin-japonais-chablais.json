@@ -1,0 +1,145 @@
+{
+  "slug": "creation-dun-jardin-japonais-chablais",
+  "title": "Création d'un jardin japonais Chablais",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/creation-dun-jardin-japonais-chablais",
+  "type": "chantier-a-z",
+  "text": "Création d'un jardin zen à partir d'une page vierge.",
+  "wordCount": 9,
+  "services": [
+    "massifs-mineral-et-jardin-japonais",
+    "plantation-et-fournitures-de-vegetaux"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/photos_chantiers_dom_089.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photos_chantiers_dom_089.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "upscale-candidate"
+      ],
+      "notes": [
+        "reviewed: cloud-pruned pine on moss mound with mountains behind (Chablais); only 840×458"
+      ],
+      "local": "content/media/creation-dun-jardin-japonais-chablais/photos_chantiers_dom_089.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/photos_chantiers_dom_083.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photos_chantiers_dom_083.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/creation-dun-jardin-japonais-chablais/photos_chantiers_dom_083.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/photos_chantiers_dom_091.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photos_chantiers_dom_091.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "upscale-candidate"
+      ],
+      "notes": [
+        "reviewed: raked-gravel zen garden with standing stones (Chablais); graphic, only 840×458"
+      ],
+      "local": "content/media/creation-dun-jardin-japonais-chablais/photos_chantiers_dom_091.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/photos_chantiers_dom_093.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photos_chantiers_dom_093.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/creation-dun-jardin-japonais-chablais/photos_chantiers_dom_093.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_3_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_3_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/creation-dun-jardin-japonais-chablais/photo_3_1600x1200_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/photos_chantiers_dom_101.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photos_chantiers_dom_101.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/creation-dun-jardin-japonais-chablais/photos_chantiers_dom_101.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/photos_chantiers_dom.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photos_chantiers_dom.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/creation-dun-jardin-japonais-chablais/photos_chantiers_dom.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo1_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo1_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/creation-dun-jardin-japonais-chablais/photo1_1600x1200_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/photos_chantiers_dom_072.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photos_chantiers_dom_072.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/creation-dun-jardin-japonais-chablais/photos_chantiers_dom_072.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/photos_chantiers_dom_071.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photos_chantiers_dom_071.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/creation-dun-jardin-japonais-chablais/photos_chantiers_dom_071.jpg"
+    }
+  ],
+  "featured": true,
+  "draft": true,
+  "location": "Chablais",
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 10,
+    "usable": 10,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  },
+  "shortlist": true,
+  "rank": 2,
+  "family": "amenagement-plantation",
+  "reason": "Most distinctive garden in the archive: raked-gravel zen garden, cloud-pruned pine, standing stones, mountain backdrop; 8 finished views. Photos are 840 px, so it needs originals or upscaling.",
+  "heroImage": "photos_chantiers_dom_091.jpg"
+}

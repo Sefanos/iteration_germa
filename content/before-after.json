@@ -1,0 +1,73 @@
+{
+  "_note": "Pairs were checked by eye on 2026-10-15. 'exact' means the same framing, usable in a slider. 'approximate' means the same place from a different angle: use side by side or as a sequence, not as a slider. All files are 840×458 unless stated otherwise. Local copies of every file below are in content/media/before-after/ (same filenames).",
+  "pairs": [
+    {
+      "id": "saint-maurice-corner",
+      "project": "projet-dachitecture-paysagere-realisation-dune-entree-de-maison-saint-maurice",
+      "kind": "initial-to-projection",
+      "match": "exact",
+      "before": "https://www.germa-paysages.ch/sites/default/files/2023-04/etat_initial_-2_2.jpg",
+      "after": "https://www.germa-paysages.ch/sites/default/files/2023-04/projection_-2_2.jpg",
+      "description": "Street corner in front of the house: bare lawn with stakes → photomontage with a planted mineral bed (grasses, boulders).",
+      "caveat": "The 'after' is a design projection, not a photo of the finished work."
+    },
+    {
+      "id": "saint-maurice-entrance-sequence",
+      "project": "projet-dachitecture-paysagere-realisation-dune-entree-de-maison-saint-maurice",
+      "kind": "initial-projection-realisation",
+      "match": "approximate",
+      "sequence": [
+        "https://www.germa-paysages.ch/sites/default/files/2023-04/etat_initial_1.jpg",
+        "https://www.germa-paysages.ch/sites/default/files/2023-04/projection_2.jpg",
+        "https://www.germa-paysages.ch/sites/default/files/2023-04/realisation_3.jpg"
+      ],
+      "description": "Entrance beside a red facade: building site (boulder, pallets) → projection (grasses, black timber posts) → built (boulder, black posts, dark gravel).",
+      "recommendedUse": "Chapter 05 three-step story « Conception → Réalisation ». This is the only verified idea → built sequence on a private garden."
+    },
+    {
+      "id": "randogne-entrance",
+      "project": "projection-damenagements-paysagers-dune-entree-de-maison-randogne",
+      "kind": "initial-to-projection",
+      "match": "exact",
+      "before": "https://www.germa-paysages.ch/sites/default/files/2023-04/etat_initial.jpg",
+      "after": "https://www.germa-paysages.ch/sites/default/files/2023-04/projection_1.jpg",
+      "description": "Chalet entrance: existing state → photomontage adding a timber porch/carport and white hydrangea planting.",
+      "caveat": "Projection only. No photo of a realisation is published."
+    },
+    {
+      "id": "monthey-park",
+      "project": "realisation-dun-projet-darchitecture-paysagere-pour-le-parc-dun-lotissement-monthey",
+      "kind": "projection-to-realisation",
+      "match": "approximate",
+      "before": "https://www.germa-paysages.ch/sites/default/files/2023-04/image_ref_1_0_0.png",
+      "after": "https://www.germa-paysages.ch/sites/default/files/2023-04/20180912_083119_2_2_1_0.jpg",
+      "description": "Residential park in Monthey: render (red grasses, trees, rocks, human silhouettes) → the same planting bed as built.",
+      "dimensions": { "before": "1512×2016", "after": "3024×2613" },
+      "recommendedUse": "Side by side; the different aspect ratios rule out a slider. This is the largest verified pair."
+    },
+    {
+      "id": "gilly-stairs",
+      "project": null,
+      "pages": ["/fr/prestations/escaliers", "/fr/prestations/conceptions-par-un-architecte-paysagiste"],
+      "kind": "before-after",
+      "match": "approximate",
+      "before": "https://www.germa-paysages.ch/sites/default/files/2023-04/habillage_descalier_a_gilly_avant.jpg",
+      "after": "https://www.germa-paysages.ch/sites/default/files/2023-04/habillage_descalier_a_gilly_apres.jpg",
+      "description": "Entrance stairs in Gilly: worn beige stone → re-clad in dark stone. Different angles; the 'after' shows a person in the background."
+    },
+    {
+      "id": "gabions-slope",
+      "project": "creation-dune-terrasse-et-soutenement-en-gabions",
+      "kind": "before-after",
+      "match": "approximate",
+      "before": "https://www.germa-paysages.ch/sites/default/files/2023-04/avant_9_1600x900.jpg",
+      "after": "https://www.germa-paysages.ch/sites/default/files/2023-04/apres_1_1600x900_1.jpg",
+      "description": "Overgrown slope below a terrace → gabion retaining wall with new planting. Similar direction, different framing."
+    }
+  ],
+  "rejected": [
+    { "files": ["avant_2_1600x900.jpg", "fini_4_1600x900.jpg"], "reason": "Same terrace but different viewpoints; too loose to read as a before/after." },
+    { "files": ["avant_1600x900.jpg", "apres_*_1600x900.jpg (refection-dune-entree-et-transformation-du-jardin)"], "reason": "The 'avant' shows the paved strip by the carport; the 'après' images show a gravel path in a planted bed. Different areas." },
+    { "files": ["proposition_avant-projet_image_ambiance_saint-sulpice.jpg", "apres_1_1600x1200.jpg", "apres_24_1200x1200.jpg"], "reason": "The Saint-Sulpice render shows a shaded terrace and pool; the 'après' photos show a timber platform in a meadow. No matching built view." }
+  ]
+}

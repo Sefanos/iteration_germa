@@ -1,0 +1,132 @@
+{
+  "slug": "terrasses-des-suites-dun-hotel",
+  "title": "Terrasses des suites d'un Hôtel",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/terrasses-des-suites-dun-hotel",
+  "type": "chantier-a-z",
+  "text": "Réalisations de terrasses des suites d'un hôtel sur toiture, au centre ville.\nBacs conçus sur mesure.",
+  "wordCount": 16,
+  "services": [
+    "bacs-et-balcons",
+    "moyens-techniques-et-machines",
+    "terrassement-et-travaux-de-nivellement-du-sol",
+    "terrasses-en-bois-naturel-ou-en-wpc"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/626_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/626_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasses-des-suites-dun-hotel/626_1600x1200_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/611_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/611_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasses-des-suites-dun-hotel/611_1600x1200_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/602_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/602_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasses-des-suites-dun-hotel/602_1600x1200_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/539_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/539_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "upscale-candidate"
+      ],
+      "notes": [
+        "reviewed: view of Lake Geneva and the Alps from the hotel rooftop terraces; a view, not Germa's planting; only 840×458"
+      ],
+      "local": "content/media/terrasses-des-suites-dun-hotel/539_1600x1200_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/577_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/577_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasses-des-suites-dun-hotel/577_1600x1200_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/565_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/565_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasses-des-suites-dun-hotel/565_1600x1200_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/558_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/558_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasses-des-suites-dun-hotel/558_1600x1200_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/546_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/546_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasses-des-suites-dun-hotel/546_1600x1200_0.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/533_1600x1200_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/533_1600x1200_0.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [],
+      "local": "content/media/terrasses-des-suites-dun-hotel/533_1600x1200_0.jpg"
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 9,
+    "usable": 9,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  },
+  "shortlist": true,
+  "rank": 10,
+  "family": "terrasses-pergolas",
+  "reason": "Rooftop terraces of hotel suites with a lake-and-Alps view and a crane-lift story (also a YouTube video). Prestige project, but the decking photos are plain and the hotel name needs permission."
+}

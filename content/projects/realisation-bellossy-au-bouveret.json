@@ -1,0 +1,74 @@
+{
+  "slug": "realisation-bellossy-au-bouveret",
+  "title": "Réalisation Bellossy au Bouveret",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/realisation-bellossy-au-bouveret",
+  "type": "chantier-a-z",
+  "text": "Réalisation des aménagements paysagers du parking Bellossy au Bouvert dans le cadre d'un marché public",
+  "wordCount": 15,
+  "services": [
+    "parking",
+    "plantation-et-fournitures-de-vegetaux"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_1269_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1269_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_1256_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1256_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_1212_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1212_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_1170_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1170_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_1150_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1150_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": "Le Bouveret",
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 5,
+    "usable": 5,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

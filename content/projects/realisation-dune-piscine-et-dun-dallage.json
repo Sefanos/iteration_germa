@@ -1,0 +1,87 @@
+{
+  "slug": "realisation-dune-piscine-et-dun-dallage",
+  "title": "Réalisation d'une piscine et d'un dallage",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/realisation-dune-piscine-et-dun-dallage",
+  "type": "chantier-a-z",
+  "text": "",
+  "wordCount": 0,
+  "services": [],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_0279_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0279_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0281_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0281_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0298_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0298_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/chantier_dragan_010_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/chantier_dragan_010_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/chantier_dragan_024_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/chantier_dragan_024_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/chantier_dragan_026_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/chantier_dragan_026_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 6,
+    "usable": 6,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

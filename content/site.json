@@ -1,0 +1,168 @@
+{
+  "_source": "Harvested from https://www.germa-paysages.ch/fr on 2026-10-15 (pages: /fr/contact, /fr/showroom, /fr/paysagiste-etoy-paysagiste-monthey, /fr/devis, /fr/videos, /fr). Text fields are verbatim.",
+  "legalName": "Germa Paysages Sàrl",
+  "brandName": "Germa Paysages",
+  "founded": 2009,
+  "about": {
+    "verbatim": [
+      "Germa Paysages Sàrl est une entreprise d’aménagements extérieurs située à Monthey et à Etoy. Créée en 2009, elle possède une nombreuse clientèle et de solides références, que nous tenons à votre disposition.",
+      "Nous travaillons principalement en Valais et sur le Canton de Vaud, allant du petit entretien de jardin au réaménagement complet. Nous travaillons également sur Genève, Fribourg et Neuchâtel, pour les chantiers de moyenne à grande taille.",
+      "Composé uniquement de professionnels qualifiés, Germa Paysages Sàrl vous offre des prestations de conceptions, des solutions techniques et une réalisation parfaitement exécutée par nos chefs d’équipes qui ont tous au minimum dix ans d’expérience dans le métier.Chez nous, vous aurez toujours quelqu’un à votre écoute, de la conception de votre projet, en passant par sa réalisation et son entretien.",
+      "Notre entreprise forme des apprentis depuis 2009. Germa Paysages respecte les conventions collectives en vigueur et offre des conditions de travail et de sécurité dans les standards les plus élevés.",
+      "La qualité des travaux de Germa Paysages Sàrl est garantie par des normes supérieures à celles demandées par les normes SIA."
+    ],
+    "claims": [
+      { "claim": "Fondée en 2009", "source": "/fr/paysagiste-etoy-paysagiste-monthey" },
+      { "claim": "Forme des apprentis depuis 2009", "source": "/fr/paysagiste-etoy-paysagiste-monthey" },
+      { "claim": "Chefs d’équipe avec au minimum dix ans d’expérience", "source": "/fr/paysagiste-etoy-paysagiste-monthey" },
+      { "claim": "Qualité garantie par des normes supérieures aux normes SIA", "source": "/fr/paysagiste-etoy-paysagiste-monthey" },
+      { "claim": "Devis traité gratuitement", "source": "/fr/paysagiste-etoy-paysagiste-monthey, /fr/devis" }
+    ]
+  },
+  "regions": {
+    "primary": ["Valais", "Vaud"],
+    "secondary": ["Genève", "Fribourg", "Neuchâtel"],
+    "secondaryNote": "pour les chantiers de moyenne à grande taille"
+  },
+  "locations": [
+    {
+      "id": "monthey",
+      "name": "Monthey",
+      "role": "Administration centrale",
+      "street": "Route Boeuferrant-Nord 19",
+      "postalCode": "1870",
+      "locality": "Monthey",
+      "canton": "VS",
+      "phone": "+41 24 471 25 78",
+      "fax": "+41 24 471 98 47"
+    },
+    {
+      "id": "etoy",
+      "name": "Etoy",
+      "role": "Site de production",
+      "note": "Uniquement site de production, réception sur rendez-vous",
+      "street": "Route du Stand 31",
+      "postalCode": "1163",
+      "locality": "Etoy",
+      "canton": "VD",
+      "phone": "+41 21 802 48 42",
+      "fax": "+41 21 802 48 44"
+    },
+    {
+      "id": "geneve",
+      "name": "Genève",
+      "role": "Bureau",
+      "note": "Bureau sur rendez-vous uniquement",
+      "street": "Rue de Chantepoulet 10",
+      "postalCode": "1201",
+      "locality": "Genève",
+      "canton": "GE",
+      "phone": "+41 22 320 11 88",
+      "status": "À CONFIRMER: the homepage and about page only mention Monthey and Etoy"
+    }
+  ],
+  "showroom": {
+    "locality": "Etoy",
+    "locationDescription": "Niché à Etoy, à quelques pas d’Ikea sur la Côte",
+    "address": null,
+    "addressStatus": "À CONFIRMER: not published on the showroom page",
+    "hours": [
+      { "days": ["mercredi"], "open": "13:30", "close": "17:30" },
+      { "days": ["jeudi", "vendredi"], "open": "09:30", "close": "17:30" },
+      { "days": ["samedi"], "open": "10:00", "close": "16:30" }
+    ],
+    "hoursVerbatim": "le mercredi de 13h30 à 17h30, les jeudis et vendredis de 09h30 à 17h30 et les samedis de 10h à 16h30",
+    "byAppointment": "Nous vous recevons également en dehors de ces horaires sur rendez-vous, contactez-nous au 021 807 19 23.",
+    "phone": "+41 21 807 19 23",
+    "audience": "Que vous soyez un particulier ou un architecte",
+    "verbatim": [
+      "Venez découvrir notre nouveau Showroom à Etoy !",
+      "Cet espace convivial dédié à la présentation de nos produits d’exposition vous permettra non seulement de vous projeter de manière plus concrète en le parcourant, mais également de discuter de vos attentes avec notre équipe d’experts.",
+      "Un doute sur les fonctionnalités d’une pergola bioclimatique, de la couleur des dalles qui habilleront votre terrasse ou encore du choix de la clôture qui fermera élégamment votre espace extérieur ?",
+      "A nos fidèles clients du Valais et ses environs, nous n’avons pas encore le plaisir de posséder un Germa Showroom à proximité de chez vous, mais cela ne saurait tarder. En attendant, nous serions enchantés de vous recevoir à notre espace d’Etoy ou de convenir d’une rencontre à votre domicile pour discuter de vos projets d’aménagements extérieurs avec un de nos professionnels."
+    ],
+    "images": ["/sites/default/files/inline-images/germa-showroom1.png"],
+    "legacyUrl": "https://www.germa-paysages.ch/fr/showroom"
+  },
+  "contact": {
+    "email": "secretariat@germa-paysages.ch",
+    "fileUploadNote": "Pour l'éventuel envoi de fichiers, merci d'utiliser secretariat@germa-paysages.ch",
+    "legacyUrl": "https://www.germa-paysages.ch/fr/contact"
+  },
+  "quote": {
+    "legacyUrl": "https://www.germa-paysages.ch/fr/devis",
+    "headline": "Oui, je souhaite obtenir un devis gratuit et personnalisé",
+    "intro": "Veuillez me contacter pour un rendez-vous concernant:",
+    "projectTypes": [
+      "L’entretien de mon jardin",
+      "L’aménagement ou la rénovation de mes extérieurs",
+      "La conception",
+      "ou encore.."
+    ],
+    "fields": ["Nom", "Prénom", "Adresse", "NPA", "Ville", "E-mail", "Tél"],
+    "spamProtection": ["CAPTCHA", "honeypot"],
+    "note": "Drupal webform with CAPTCHA; a new site cannot post to it cross-origin."
+  },
+  "partners": [
+    { "name": "SOKO", "what": "Pergolas bioclimatiques (« Les pergolas bioklimatique® SOKO »)", "source": "/fr/prestations/pergolas-bioclimatiques-et-classiques" },
+    { "name": "Magiline", "what": "Piscines (« Votre Partenaire Magiline pour la suisse romande », « le distributeur officiel de Piscines Magiline »)", "source": "/fr/prestations/piscines" },
+    { "name": "Spa partner (unnamed)", "what": "« partenariat privilégié avec une des sociétés leader en Suisse romande depuis des dizaines d'années » (spas)", "source": "/fr/prestations/fourniture-et-pose-de-spa" },
+    { "name": "Local partners in Greece (unnamed)", "what": "« Grâce à nos partenaires locaux, nous pouvons réaliser le jardin de vos rêves à votre résidence secondaire sur place » (gardens in Greece)", "source": "/fr/decouvrez-ici-tous-nos-jardins-grecs" }
+  ],
+  "differentiators": [
+    { "verbatim": "Cette prestation est payante mais si les travaux conçus sont réalisés par notre entreprise, vous pourrez déduire de votre facture une partie de la conception.", "source": "/fr/prestations/conceptions-par-un-architecte-paysagiste" },
+    { "verbatim": "Ces dernières seront illustrées par des plans conçus sur informatique ou à la main, selon vos préférences.", "source": "/fr/prestations/conceptions-par-un-architecte-paysagiste" },
+    { "verbatim": "Grâce à nos équipements en machines avec batterie portative, nous pouvons vous proposer un entretien sans émission de bruits et sans émissions de Co2", "source": "/fr/prestations/entretien-du-jardin-sans-bruit-ni-co2" },
+    { "verbatim": "Que vous soyez un particulier ou un architecte", "source": "/fr/showroom" }
+  ],
+  "sisterSites": [
+    { "name": "Ma pergola bioclimatique", "url": "https://www.mapergolabioclimatique.ch" }
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/GermaPaysages/",
+    "instagram": "https://www.instagram.com/germa_paysages/",
+    "linkedin": "https://www.linkedin.com/company/germapaysages"
+  },
+  "videos": [
+    { "youtubeId": "x_zQeIirDgA", "title": "Chantier A à Z" },
+    { "youtubeId": "pL5dAWyJLjw", "title": "Livraison de terreau spécial toiture par hélicoptère" },
+    { "youtubeId": "g0Iw9jXLI-E", "title": "En pleine rénovation des suites du Montreux Palace, grue de 48m !" }
+  ],
+  "brand": {
+    "primaryGreen": "#95C11F",
+    "colourSource": "fill colour in /core/themes/germa/germa_15ans.svg (current header logo). The legacy tree logo uses #78AA42 green and #7A593A brown; the theme CSS uses #7aa62c.",
+    "logos": [
+      { "file": "content/brand/germa-logo-header-15ans.svg", "source": "/core/themes/germa/germa_15ans.svg", "description": "Current mark: three lime bars and a black square, white « GERMA » wordmark, lime script « paysages », « 15 ans » badge. The white wordmark is built for dark backgrounds and reads well on forest green #18352A; the black square disappears on dark.", "status": "in use in the site header" },
+      { "file": "content/brand/germa-logo-legacy-tree-15ans.svg", "source": "/core/themes/germa/logo.svg", "description": "Older brand: brown tree with « GermaPaysages », « 15 ans » badge, « Depuis plus de 15 ans à faire Germer vos idées », « Votre paysagiste ».", "status": "theme default logo, not visible in the header" },
+      { "file": "content/brand/germa-showroom-logo.png", "source": "/sites/default/files/inline-images/germa-showroom1.png", "description": "Showroom sub-brand: bars mark, white « GERMA », lime script « Showroom ». Raster 602×260.", "status": "on the showroom page" }
+    ],
+    "missing": "No master logo without the « 15 ans » badge was found. Ask Germa for the vector master.",
+    "legacyTaglines": ["Depuis plus de 15 ans à faire Germer vos idées", "Votre paysagiste"],
+    "metaDescription": "Germa-Paysages votre paysagiste à Monthey et Etoy"
+  },
+  "legacySite": {
+    "cms": "Drupal 9",
+    "languages": ["fr", "en"],
+    "sitemapUrlCount": { "fr": 483, "en": 465 },
+    "frenchStructure": { "servicePages": 44, "chantiersAZ": 83, "realisationsListed": 432 },
+    "analytics": ["Google Analytics 4 (G-50ZHB3ZWNL)", "Fraud Blocker (ad click-fraud protection, which suggests paid search campaigns)"],
+    "legalPages": "none found: no mentions légales or privacy policy linked anywhere or listed in the sitemap",
+    "newsletter": "/form/newsletter"
+  },
+  "permissions": {
+    "clientNamesConfirmed": false,
+    "photoRightsConfirmed": false
+  },
+  "discrepancies": [
+    { "id": "showroom-phone", "issue": "The showroom page gives 021 807 19 23; the contact page gives +41 21 802 48 42 for Etoy." },
+    { "id": "etoy-reception", "issue": "The contact page says Etoy is « uniquement site de production, réception sur rendez-vous », but the showroom page publishes public opening hours in Etoy. Is the showroom at Route du Stand 31 or at another address (« à quelques pas d’Ikea »)?" },
+    { "id": "geneve-office", "issue": "The contact page lists a Geneva office (Rue de Chantepoulet 10). The homepage, the meta description and the about page only mention Monthey and Etoy." },
+    { "id": "photos-all-germa", "issue": "The about page says « L'ensemble des photographies présente sur le site correspondent à nos réalisations », but the site carries SOKO marketing photos (credited « © SOKO – F. Pieau », shot in Ploërmel, La Roche-sur-Yon and Aizenay, France), listed as « Pergola bioclimatique » réalisations." },
+    { "id": "named-clients", "issue": "Named clients appear in titles, filenames and video titles: Beau-Rivage Palace, Montreux Palace, Usine Cailler (Broc), Ville de Monthey. Can they be featured?" },
+    { "id": "photo-rights", "issue": "A few photos look professionally shot (for example the Beau-Rivage Palace night shot on the homepage). Who owns them: Germa, the client, or a photographer?" },
+    { "id": "anniversary-logo", "issue": "The header uses a « 15 ans » logo (2009 + 15 = 2024), which is out of date in 2026." },
+    { "id": "english-on-french-pages", "issue": "The French homepage shows the English tagline « Germa-Paysages your landscape gardener in Monthey and Etoy ». French service pages show an English « Request for quotation » button." },
+    { "id": "legal-pages-missing", "issue": "No mentions légales or privacy policy exist, although the site collects personal data through its contact, quote and newsletter forms (nLPD)." },
+    { "id": "quote-types", "issue": "The quote form has four project types, including « L’entretien de mon jardin ». The build prompt's field list only had three." }
+  ]
+}

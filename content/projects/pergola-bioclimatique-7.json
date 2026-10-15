@@ -1,0 +1,36 @@
+{
+  "slug": "pergola-bioclimatique-7",
+  "title": "Pergola bioclimatique",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/pergola-bioclimatique-7",
+  "type": "chantier-a-z",
+  "text": "Pergola bioclimatique\nCrédit photo : 2021-AIZENAY-5353 © SOKO - F. Pieau",
+  "wordCount": 11,
+  "services": [
+    "pergolas-bioclimatiques-et-classiques"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/2021-aizenay-5353_c_soko_-_f._pieau_1_0_0.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/2021-aizenay-5353_c_soko_-_f._pieau_1_0_0.jpg",
+      "width": 1400,
+      "height": 933,
+      "flags": [
+        "supplier",
+        "exclude"
+      ],
+      "notes": [
+        "SOKO marketing photo, credited « © SOKO – F. Pieau », shot in France"
+      ]
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 1,
+    "usable": 0,
+    "longEdgeMax": 1400,
+    "usableAtLeast1200": 0
+  }
+}

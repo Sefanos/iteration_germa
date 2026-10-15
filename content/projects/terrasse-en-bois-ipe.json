@@ -1,0 +1,63 @@
+{
+  "slug": "terrasse-en-bois-ipe",
+  "title": "Terrasse en bois IPE",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/terrasse-en-bois-ipe",
+  "type": "chantier-a-z",
+  "text": "Une nouvelle terrasse en bois naturel type IPE, bois très dur offrant un grand confort et un esthétique inégalable.\nAvec des pavés en ligne et de la chaille drainante.",
+  "wordCount": 29,
+  "services": [
+    "terrasses-en-bois-naturel-ou-en-wpc"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/s7000671_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000671_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000683_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000683_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000686_720x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000686_720x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000688_1280x960_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000688_1280x960_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 4,
+    "usable": 4,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "terrasse-en-wpc",
+  "title": "Terrasse en WPC",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/terrasse-en-wpc",
+  "type": "chantier-a-z",
+  "text": "Choisir une terrasse en wpc possède différent avantage comme un entretien réduit, une décoloration quasi inexistante.\nVoici l'évolution d'un chantier de ce type, réalisé avec peu d'accès. Rien ne nous arrête.",
+  "wordCount": 31,
+  "services": [
+    "terrasses-en-bois-naturel-ou-en-wpc"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img_0203_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0203_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0207_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0207_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0227_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0227_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0265_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0265_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0274_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0274_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0281_1280x960_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0281_1280x960_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 6,
+    "usable": 6,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

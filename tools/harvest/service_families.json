@@ -1,0 +1,8 @@
+{
+  "conception": ["conceptions-par-un-architecte-paysagiste", "paysagisme-dinterieur"],
+  "amenagement-plantation": ["plantation-et-fournitures-de-vegetaux", "engazonnement-en-semi-ou-en-precultive", "gazon-synthetique", "prairie", "toitures-vegetalises", "bacs-et-balcons", "massifs-mineral-et-jardin-japonais", "arrosage-automatique", "place-de-jeux-respectant-les-dernieres-normes-de-securite", "cabanons-de-jardin", "clotures-et-portails", "palissade", "terrassement-et-travaux-de-nivellement-du-sol", "drainage-canalisation", "cuves-de-recuperation-des-eaux-fluviales", "bitume", "parking", "garage-en-beton-prefabrique-ou-couvert", "moyens-techniques-et-machines"],
+  "terrasses-pergolas": ["terrasses-en-bois-naturel-ou-en-wpc", "dallages-et-pavages", "pergolas-bioclimatiques-et-classiques", "escaliers", "revetements-en-resine-pour-vos-exterieurs"],
+  "murs-enrochements-pierre": ["murs-de-soutenement-ou-de-separation", "enrochement-dagrement-et-de-soutenement", "gabions-de-separation-ou-de-soutenement", "pierre-naturelle-au-sol", "pierre-naturelle-en-facade", "talus"],
+  "piscines-spas-bassins": ["piscines", "fourniture-et-pose-de-spa", "piece-deau"],
+  "entretien": ["taille", "entretien-du-jardin-sans-bruit-ni-co2", "entretien-naturel", "soins-au-gazon", "tontes-du-gazon", "traitement-phytosanitaire", "elagages", "abattage", "expertise-de-vos-arbres"]
+}

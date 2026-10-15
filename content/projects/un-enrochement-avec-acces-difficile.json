@@ -1,0 +1,83 @@
+{
+  "slug": "un-enrochement-avec-acces-difficile",
+  "title": "Un enrochement avec accès difficile",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/un-enrochement-avec-acces-difficile",
+  "type": "chantier-a-z",
+  "text": "Enrochement effectué avec des accès difficiles, un système parfaitement maîtrisé. Découvrez ce chantier !",
+  "wordCount": 14,
+  "services": [
+    "enrochement-dagrement-et-de-soutenement"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/495_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/495_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/474_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/474_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/473_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/473_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/461_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/461_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/452_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/452_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/449_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/449_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 6,
+    "usable": 6,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

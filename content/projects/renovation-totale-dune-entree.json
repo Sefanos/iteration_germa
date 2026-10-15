@@ -1,0 +1,108 @@
+{
+  "slug": "renovation-totale-dune-entree",
+  "title": "Rénovation totale d'une entrée",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/renovation-totale-dune-entree",
+  "type": "chantier-a-z",
+  "text": "Rien n'est impossible. Transformer un talus en route pour atteindre votre nouveau garage avec un gazon précultivé, des plantations dans le talus et une clôture en bois pour la sécurité.",
+  "wordCount": 30,
+  "services": [
+    "clotures-et-portails",
+    "engazonnement-en-semi-ou-en-precultive",
+    "enrochement-dagrement-et-de-soutenement",
+    "garage-en-beton-prefabrique-ou-couvert",
+    "parking",
+    "terrassement-et-travaux-de-nivellement-du-sol"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/s7000489_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000489_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000490_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000490_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000498_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000498_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000505_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000505_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000512_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000512_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000526_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000526_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000705_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000705_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000607_1280x960_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000607_1280x960_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 8,
+    "usable": 8,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

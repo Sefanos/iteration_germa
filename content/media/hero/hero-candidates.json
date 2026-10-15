@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1,
+    "file": "content/media/hero/01-beau_rivage_palace_-_germa1.jpeg",
+    "sourceUrl": "https://www.germa-paysages.ch/sites/default/files/2023-04/beau_rivage_palace_-_germa1.jpeg",
+    "width": 1440,
+    "height": 961,
+    "fullBleedCapable": false,
+    "recommendedUse": "framed editorial hero (about 55–70% of viewport width)",
+    "upscaleCandidate": false,
+    "pages": [
+      "/fr",
+      "/fr/accueil"
+    ],
+    "note": "reviewed: professional night shot, planters and lighting at the Beau-Rivage Palace; 1440×961 → framed hero only; photo rights and client-name permission to confirm"
+  },
+  {
+    "rank": 2,
+    "file": "content/media/hero/02-9_1.jpg",
+    "sourceUrl": "https://www.germa-paysages.ch/sites/default/files/2023-04/9_1.jpg",
+    "width": 1920,
+    "height": 1440,
+    "fullBleedCapable": false,
+    "recommendedUse": "framed editorial hero (about 55–70% of viewport width)",
+    "upscaleCandidate": false,
+    "pages": [
+      "/fr/architecture-paysagere-et-amenagement-du-jardin-dun-chalet-de-maitre-chermignon",
+      "/fr/nos-realisations"
+    ],
+    "note": "reviewed: Chermignon, flagstone stepping-stone path through lawn, bollard lights, larch fence, forest; 1920×1440 → framed hero"
+  },
+  {
+    "rank": 3,
+    "file": "content/media/hero/03-7_1.jpg",
+    "sourceUrl": "https://www.germa-paysages.ch/sites/default/files/2023-04/7_1.jpg",
+    "width": 1920,
+    "height": 1440,
+    "fullBleedCapable": false,
+    "recommendedUse": "framed editorial hero (about 55–70% of viewport width)",
+    "upscaleCandidate": false,
+    "pages": [
+      "/fr/architecture-paysagere-et-amenagement-du-jardin-dun-chalet-de-maitre-chermignon",
+      "/fr/nos-realisations"
+    ],
+    "note": "reviewed: Chermignon, natural-stone stairs along the chalet, weeping larch, lights; 1920×1440 → framed hero"
+  },
+  {
+    "rank": 4,
+    "file": "content/media/hero/04-plantations-chablais-bonzai-jardin_japonais.jpg",
+    "sourceUrl": "https://www.germa-paysages.ch/sites/default/files/2023-04/plantations-chablais-bonzai-jardin_japonais.jpg",
+    "width": 1600,
+    "height": 1200,
+    "fullBleedCapable": false,
+    "recommendedUse": "framed editorial hero (about 55–70% of viewport width)",
+    "upscaleCandidate": false,
+    "pages": [
+      "/fr",
+      "/fr/accueil"
+    ],
+    "note": "reviewed: Japanese garden in the Chablais, cloud-pruned pine on a moss mound, raked gravel; 1600×1200 → framed hero"
+  },
+  {
+    "rank": 5,
+    "file": "content/media/hero/05-12_1.jpg",
+    "sourceUrl": "https://www.germa-paysages.ch/sites/default/files/2023-04/12_1.jpg",
+    "width": 1920,
+    "height": 1440,
+    "fullBleedCapable": false,
+    "recommendedUse": "framed editorial hero (about 55–70% of viewport width)",
+    "upscaleCandidate": false,
+    "pages": [
+      "/fr/architecture-paysagere-et-amenagement-du-jardin-dun-chalet-de-maitre-chermignon",
+      "/fr/nos-realisations"
+    ],
+    "note": "reviewed: Chermignon, sedum rockery with stone blocks below the chalet; 1920×1440 → framed hero"
+  },
+  {
+    "rank": 6,
+    "file": "content/media/hero/06-spa_-_villars-sur-ollon_0.jpeg",
+    "sourceUrl": "https://www.germa-paysages.ch/sites/default/files/2023-04/spa_-_villars-sur-ollon_0.jpeg",
+    "width": 1024,
+    "height": 768,
+    "fullBleedCapable": false,
+    "recommendedUse": "framed editorial hero (about 55–70% of viewport width)",
+    "upscaleCandidate": true,
+    "pages": [
+      "/fr",
+      "/fr/accueil"
+    ],
+    "note": "reviewed: hot tub on a timber deck facing the Alps (Villars-sur-Ollon); strong composition but 1024×768"
+  }
+]

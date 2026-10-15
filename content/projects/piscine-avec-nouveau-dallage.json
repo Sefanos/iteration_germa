@@ -1,0 +1,59 @@
+{
+  "slug": "piscine-avec-nouveau-dallage",
+  "title": "Piscine avec nouveau dallage",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/piscine-avec-nouveau-dallage",
+  "type": "chantier-a-z",
+  "text": "Profitez d'obtenir une offre pour un nouveau dallage autour de votre piscine !\nNous possédons aussi plusieurs partenaires commerciaux réalisant des piscines ce qui nous permet de vous remettre un devis clef en main.",
+  "wordCount": 34,
+  "services": [
+    "dallages-et-pavages"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/chantier_dragan_010_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/chantier_dragan_010_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/chantier_dragan_024_1280x960_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/chantier_dragan_024_1280x960_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/chantier_dragan_026_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/chantier_dragan_026_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": [
+        "personal or business name in filename: rename on export"
+      ]
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 3,
+    "usable": 3,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

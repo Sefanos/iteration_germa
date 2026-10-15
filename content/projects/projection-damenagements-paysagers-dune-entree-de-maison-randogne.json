@@ -1,0 +1,49 @@
+{
+  "slug": "projection-damenagements-paysagers-dune-entree-de-maison-randogne",
+  "title": "Projection d'aménagements paysagers d'une entrée de maison à Randogne",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/projection-damenagements-paysagers-dune-entree-de-maison-randogne",
+  "type": "chantier-a-z",
+  "text": "Projection d'aménagements paysagers d'une entrée de maison à Randogne",
+  "wordCount": 9,
+  "services": [
+    "conceptions-par-un-architecte-paysagiste"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/projection_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/projection_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "3d-projection"
+      ],
+      "notes": [
+        "reviewed: Randogne photomontage projection (porch/carport and planting added); same framing as etat_initial.jpg"
+      ]
+    },
+    {
+      "path": "/sites/default/files/2023-04/etat_initial.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/etat_initial.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "before"
+      ],
+      "notes": [
+        "reviewed: Randogne état initial; same framing as projection_1.jpg"
+      ]
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": "Randogne",
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 2,
+    "usable": 2,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

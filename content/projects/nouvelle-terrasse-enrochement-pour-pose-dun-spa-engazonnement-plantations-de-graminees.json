@@ -1,0 +1,75 @@
+{
+  "slug": "nouvelle-terrasse-enrochement-pour-pose-dun-spa-engazonnement-plantations-de-graminees",
+  "title": "Nouvelle terrasse, enrochement pour pose d'un spa, engazonnement, plantations de graminées",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/nouvelle-terrasse-enrochement-pour-pose-dun-spa-engazonnement-plantations-de-graminees",
+  "type": "chantier-a-z",
+  "text": "Un nouvel aménagement avec enrochement, terrasse, engazonnement et plantations de graminées.",
+  "wordCount": 11,
+  "services": [
+    "dallages-et-pavages",
+    "engazonnement-en-semi-ou-en-precultive",
+    "enrochement-dagrement-et-de-soutenement"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/engazonnement-_terrasse-_passe-pieds-_plantations_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/engazonnement-_terrasse-_passe-pieds-_plantations_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/engazonnement-_terrasse-_passe-pieds-_plantations_3.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/engazonnement-_terrasse-_passe-pieds-_plantations_3.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/engazonnement-_terrasse-_passe-pieds-_plantations_4.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/engazonnement-_terrasse-_passe-pieds-_plantations_4.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/engazonnement-_terrasse-_passe-pieds-_plantations_5.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/engazonnement-_terrasse-_passe-pieds-_plantations_5.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/engazonnement-_terrasse-_passe-pieds-_plantations_6.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/engazonnement-_terrasse-_passe-pieds-_plantations_6.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 5,
+    "usable": 5,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

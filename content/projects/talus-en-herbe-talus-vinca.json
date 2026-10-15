@@ -1,0 +1,84 @@
+{
+  "slug": "talus-en-herbe-talus-vinca",
+  "title": "Talus en herbe à talus vinca",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/talus-en-herbe-talus-vinca",
+  "type": "chantier-a-z",
+  "text": "Un talus qui nécessitait d'être débroussaillé trop souvent est transformé en talus avec très peu d'entretien.\nUne natte biodégrable recouvre la surface avec une plantation de vinca minor qui tapisseront le talus.\nLe client a également voulu ajouter quelques plantes à lui en sus. Il faut deux à trois saisons pour que les plantes recouvrent totalement la surface.",
+  "wordCount": 58,
+  "services": [
+    "plantation-et-fournitures-de-vegetaux",
+    "talus"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/refection_dun_talus_en_vinca_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/refection_dun_talus_en_vinca_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/refection_dun_talus_en_vinca_2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/refection_dun_talus_en_vinca_2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/refection_dun_talus_en_vinca_3.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/refection_dun_talus_en_vinca_3.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/refection_dun_talus_en_vinca_4.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/refection_dun_talus_en_vinca_4.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/refection_dun_talus_en_vinca_5.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/refection_dun_talus_en_vinca_5.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/refection_dun_talus_en_vinca_6_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/refection_dun_talus_en_vinca_6_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 6,
+    "usable": 6,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

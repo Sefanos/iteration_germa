@@ -1,0 +1,98 @@
+{
+  "slug": "projet-dachitecture-paysagere-realisation-dune-entree-de-maison-saint-maurice",
+  "title": "Projet d'achitecture paysagère, réalisation d'une entrée de maison à Saint-Maurice",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/projet-dachitecture-paysagere-realisation-dune-entree-de-maison-saint-maurice",
+  "type": "chantier-a-z",
+  "text": "Projet d'achitecture paysagère, projection et réalisation d'une entrée de maison à Saint-Maurice.",
+  "wordCount": 12,
+  "services": [
+    "conceptions-par-un-architecte-paysagiste"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/etat_initial_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/etat_initial_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "before"
+      ],
+      "notes": [
+        "reviewed: Saint-Maurice état initial (boulder, pallets, scaffolding)"
+      ],
+      "local": "content/media/projet-dachitecture-paysagere-realisation-dune-entree-de-maison-saint-maurice/etat_initial_1.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/projection_2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/projection_2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "3d-projection"
+      ],
+      "notes": [
+        "reviewed: Saint-Maurice photomontage projection, close to the état initial viewpoint"
+      ],
+      "local": "content/media/projet-dachitecture-paysagere-realisation-dune-entree-de-maison-saint-maurice/projection_2.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/etat_initial_-2_2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/etat_initial_-2_2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "before"
+      ],
+      "notes": [
+        "reviewed: Saint-Maurice état initial, street corner; exact same framing as projection_-2_2.jpg"
+      ],
+      "local": "content/media/projet-dachitecture-paysagere-realisation-dune-entree-de-maison-saint-maurice/etat_initial_-2_2.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/projection_-2_2.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/projection_-2_2.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "3d-projection"
+      ],
+      "notes": [
+        "reviewed: Saint-Maurice photomontage projection; exact same framing as etat_initial_-2_2.jpg"
+      ],
+      "local": "content/media/projet-dachitecture-paysagere-realisation-dune-entree-de-maison-saint-maurice/projection_-2_2.jpg"
+    },
+    {
+      "path": "/sites/default/files/2023-04/realisation_3.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/realisation_3.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res",
+        "after"
+      ],
+      "notes": [
+        "reviewed: built result of the Saint-Maurice entrance (boulder, black posts, dark gravel)"
+      ],
+      "local": "content/media/projet-dachitecture-paysagere-realisation-dune-entree-de-maison-saint-maurice/realisation_3.jpg"
+    }
+  ],
+  "featured": true,
+  "draft": true,
+  "location": "Saint-Maurice",
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 5,
+    "usable": 5,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  },
+  "shortlist": true,
+  "rank": 6,
+  "family": "conception",
+  "reason": "The clearest « de l'idée à la réalisation » proof: état initial, photomontage projection and built result of the same entrance (boulder, black posts, grasses). Only 5 images (840 px), so it is chosen for the story rather than photo count.",
+  "heroImage": "realisation_3.jpg"
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "petit-muret",
+  "title": "Petit muret",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/petit-muret",
+  "type": "chantier-a-z",
+  "text": "Création d'un petit muret, escalier et dallage type romance.",
+  "wordCount": 9,
+  "services": [
+    "dallages-et-pavages",
+    "murs-de-soutenement-ou-de-separation"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/s7000725_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000725_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000727_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000727_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000732_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000732_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000739_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000739_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000741_1280x960.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000741_1280x960.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/s7000743_1280x960_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/s7000743_1280x960_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 6,
+    "usable": 6,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

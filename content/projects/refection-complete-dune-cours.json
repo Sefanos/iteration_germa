@@ -1,0 +1,124 @@
+{
+  "slug": "refection-complete-dune-cours",
+  "title": "Réfection complète d'une cours",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/refection-complete-dune-cours",
+  "type": "chantier-a-z",
+  "text": "Changement du sol, des murs, des chemins, découvrez avec nous le changement drastique de cet extérieur !",
+  "wordCount": 17,
+  "services": [
+    "dallages-et-pavages",
+    "murs-de-soutenement-ou-de-separation"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/photo_ndeg-182_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_ndeg-182_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_ndeg-202_1600x1000.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_ndeg-202_1600x1000.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_ndeg-165_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_ndeg-165_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_ndeg-154_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_ndeg-154_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_ndeg-130_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_ndeg-130_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_ndeg-101_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_ndeg-101_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_ndeg-93_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_ndeg-93_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_ndeg-53_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_ndeg-53_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/photo_ndeg-51_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/photo_ndeg-51_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img_0050_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_0050_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 10,
+    "usable": 10,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

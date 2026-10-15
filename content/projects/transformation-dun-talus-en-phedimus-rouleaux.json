@@ -1,0 +1,63 @@
+{
+  "slug": "transformation-dun-talus-en-phedimus-rouleaux",
+  "title": "Transformation d'un talus en Phédimus rouleaux",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/transformation-dun-talus-en-phedimus-rouleaux",
+  "type": "chantier-a-z",
+  "text": "Découvrez la transformation incroyable de ce talus !",
+  "wordCount": 8,
+  "services": [
+    "talus"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/img-20130711-00819_1600x1200_1.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img-20130711-00819_1600x1200_1.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/camerazoom-20130517155124982_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/camerazoom-20130517155124982_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/camerazoom-20130516142509644_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/camerazoom-20130516142509644_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/img-20130321-00260_1600x1200.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/img-20130321-00260_1600x1200.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": null,
+  "locationHintsFromFilenames": [],
+  "stats": {
+    "images": 4,
+    "usable": 4,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}

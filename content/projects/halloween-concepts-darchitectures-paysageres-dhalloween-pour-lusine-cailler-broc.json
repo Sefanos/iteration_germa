@@ -1,0 +1,55 @@
+{
+  "slug": "halloween-concepts-darchitectures-paysageres-dhalloween-pour-lusine-cailler-broc",
+  "title": "Halloween : Concepts d'architectures paysagères d'Halloween pour l'Usine Cailler à Broc",
+  "legacyUrl": "https://www.germa-paysages.ch/fr/halloween-concepts-darchitectures-paysageres-dhalloween-pour-lusine-cailler-broc",
+  "type": "chantier-a-z",
+  "text": "Halloween : Concepts d'architectures paysagères d'Halloween pour l'Usine Cailler à Broc",
+  "wordCount": 11,
+  "services": [
+    "conceptions-par-un-architecte-paysagiste"
+  ],
+  "images": [
+    {
+      "path": "/sites/default/files/2023-04/automne_2_1.png",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/automne_2_1.png",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/automne_1.png",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/automne_1.png",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    },
+    {
+      "path": "/sites/default/files/2023-04/broc_halloween.jpg",
+      "url": "https://www.germa-paysages.ch/sites/default/files/2023-04/broc_halloween.jpg",
+      "width": 840,
+      "height": 458,
+      "flags": [
+        "low-res"
+      ],
+      "notes": []
+    }
+  ],
+  "featured": false,
+  "draft": true,
+  "location": "Broc",
+  "locationHintsFromFilenames": [
+    "Broc"
+  ],
+  "stats": {
+    "images": 3,
+    "usable": 3,
+    "longEdgeMax": 840,
+    "usableAtLeast1200": 0
+  }
+}
