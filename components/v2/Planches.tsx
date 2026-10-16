@@ -70,8 +70,8 @@ export default function Planches() {
       <div className="mx-auto max-w-[1440px] px-5 pt-20 pb-10 sm:px-8 lg:px-[6.6vw] lg:pt-[9vh] lg:pb-[5vh]">
         <div className="head">
           <span className="head-veil" aria-hidden="true" />
-        <p className="mono dim-label">Planches 01–06 <span className="dim-line" aria-hidden="true" /> Plan masse</p>
-        <h2 id="planches-title" data-audit className="font-display mt-4 text-[clamp(2.6rem,5.2vw,5rem)] leading-[0.96] font-bold tracking-[-0.03em]">
+        <p className="mono dim-label" data-reveal>Planches 01–06 <span className="dim-line" aria-hidden="true" /> Plan masse</p>
+        <h2 id="planches-title" data-audit data-reveal-lines className="font-display mt-4 text-[clamp(2.6rem,5.2vw,5rem)] leading-[0.96] font-bold tracking-[-0.03em]">
           Six planches, six jardins.
         </h2>
         </div>

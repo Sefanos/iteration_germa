@@ -7,7 +7,7 @@ export const filmState = {
   visible: true,
 };
 
-export const bus: { film: (() => void) | null; sun: (() => void) | null; ready: (() => void) | null; dusk: number } = { film: null, sun: null, ready: null, dusk: 0 };
+export const bus: { film: (() => void) | null; sun: (() => void) | null; ready: (() => void) | null; wordmark: ((t: number) => void) | null; dusk: number } = { film: null, sun: null, ready: null, wordmark: null, dusk: 0 };
 
 export type Chapter = { id: string; start: number; end: number };
 
@@ -19,6 +19,7 @@ export const GARDEN = {
   /** chapters in order, as [first, last] frame indices */
   chapters: (frames.chapters ?? []) as Chapter[],
   finished: "/media/garden/K6.jpg",
+  arrivalPoster: "/media/garden/arrival-poster.jpg",
   dusk: "/media/garden/K7.jpg",
   /** hero: the construction film runs over progress 0..0.8, then holds its last frame */
   filmEnd: 0.8,
@@ -34,3 +35,5 @@ export const chapter = (id: string): Chapter => {
 
 export const clamp = (v: number, lo: number, hi: number) => Math.min(hi, Math.max(lo, v));
 export const smooth = (t: number) => t * t * (3 - 2 * t);
+
+if (typeof window !== "undefined") (window as unknown as { __filmState: typeof filmState }).__filmState = filmState;

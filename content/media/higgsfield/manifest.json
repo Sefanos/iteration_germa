@@ -1,7 +1,7 @@
 {
   "_source": "Generated with the Higgsfield MCP on 2026-10-15 for prompts/03-mvp-landing.md. H1 animates Germa's real Chermignon photo; M1 and M2 are material illustrations, not Germa projects. No people, text or logos in any output.",
   "creditsBefore": 950,
-  "generationsSubmitted": 52,
+  "generationsSubmitted": 53,
   "h1Prompt": "A real architectural photograph of a finished alpine garden, brought gently to life. Very slow, perfectly steady push-in toward the stepping-stone path, about 4% over the whole clip. Warm late-afternoon light. The lawn and larch trees stir in a faint mountain breeze. Everything built stays perfectly still and identical to the photo: flagstones, bollard lights, larch fence, chalet. Calm, premium, photorealistic.",
   "h1NegativePrompt": "morphing, warping, new objects, extra plants, people, animals, text, logos, camera shake, fast motion, lens flare, colour shift, HDR, CGI look, time-lapse",
   "entries": [
@@ -893,6 +893,22 @@
       "jobId": "b1072a42-b1a3-45f3-9cdd-d671c18aa9d8",
       "status": "approved",
       "check": "Evening falls on the terrace; join 37.8 dB vs E3's last frame. Closes the page's day-to-dusk arc.",
+      "usedOnPage": true
+    },
+    {
+      "id": "D",
+      "take": 1,
+      "file": "content/media/higgsfield/E/D-arrival.mp4",
+      "source": "cloud frame (job 29196633) as start_image, K0 as end_image",
+      "model": "wan3_0",
+      "settings": {
+        "duration": 10,
+        "resolution": "720p",
+        "generate_audio": false
+      },
+      "jobId": "8c470a84-9d02-4cf0-a04d-bb01865c39b1",
+      "status": "approved",
+      "check": "Descent from the clouds through mist to the bare plot; last frame 22.5 dB vs K0 (lands on the plot). Mid-clip beat passes over a village and a green lawn before the plot; covered on the page by the wordmark hold. Only take: a re-roll would cross the 600-credit floor.",
       "usedOnPage": true
     }
   ],

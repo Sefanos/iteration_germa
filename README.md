@@ -24,11 +24,11 @@ First time only, for screenshots: `npx playwright install chromium-headless-shel
 ## Where things are
 
 - `app/`, `components/`, `lib/content.ts` — the page (Next.js App Router, Tailwind v4, GSAP).
-- `components/garden/` — the one page canvas (frame scrubber over the whole sequence), the hero, the chapter scroll drive, contours, plan symbols, sun arc, cursor.
+- `components/garden/` — the one page canvas (frame scrubber over the whole sequence), the fly-in (Arrival), the wordmark in the water, the hero, the chapter scroll drive, the nav capsule and menu, loader, text reveals, Lenis smooth scroll, contours, plan symbols, sun arc, cursor.
 - `components/v2/` — the sections (planches, index, plan au jardin, showroom, contact), the ink line, scrub maths.
 - `public/media/garden/` — keyframes, wide arrival frame, finished and dusk frames, and `seq/{1280,800}/` film frames.
 - `content/media/higgsfield/K`, `C2`, `E` — the generated keyframes, construction clips and exploration clips; `A` holds the aerial reference clips; `content/media/higgsfield/C` holds the earlier maquette film, kept for a detail page.
 - `public/media/` — the photos and the hero loop used on the page (copied from `content/`).
 - `content/media/higgsfield/manifest.json` — every Higgsfield output, with approved / rejected status and why.
-- `pitch/v3/` — screenshots, hero beats, keyframe flip-book, clip contact sheets and the scroll recording. `pitch/mvp/` and `pitch/v2/` are the earlier rounds.
+- `pitch/v4/` — current screenshots, hero beats, arrival captures and the scroll recording; `pitch/v3/` holds the keyframe flip-book, clip contact sheets (`clips/`, `explore/`, `aerial/`); `pitch/mvp/` and `pitch/v2/` are earlier rounds.
 - `prompts/`, `tools/harvest/` — the content harvest and build prompts.

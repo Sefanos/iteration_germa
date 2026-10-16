@@ -42,8 +42,8 @@ export default function Index() {
       <div className="mx-auto max-w-[1440px] px-5 py-20 sm:px-8 lg:px-[6.6vw] lg:py-[12vh]">
         <div className="head">
           <span className="head-veil" aria-hidden="true" />
-        <p className="mono dim-label">Index <span className="dim-line" aria-hidden="true" /> Savoir-faire</p>
-        <h2 id="index-title" data-audit className="font-display mt-4 max-w-[12ch] text-[clamp(2.6rem,5.2vw,5rem)] leading-[0.96] font-bold tracking-[-0.03em]">
+        <p className="mono dim-label" data-reveal>Index <span className="dim-line" aria-hidden="true" /> Savoir-faire</p>
+        <h2 id="index-title" data-audit data-reveal-lines className="font-display mt-4 max-w-[12ch] text-[clamp(2.6rem,5.2vw,5rem)] leading-[0.96] font-bold tracking-[-0.03em]">
           Six métiers, une équipe.
         </h2>
         </div>

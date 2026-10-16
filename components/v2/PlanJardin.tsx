@@ -28,8 +28,8 @@ export default function PlanJardin() {
           <div className="lg:col-span-6">
             <div className="head">
               <span className="head-veil" aria-hidden="true" />
-            <p className="mono dim-label">Saint-Maurice (VS) <span className="dim-line" aria-hidden="true" /> Entrée de maison</p>
-            <h2 id="plan-title" data-audit className="font-display mt-4 text-[clamp(2.6rem,5.2vw,5rem)] leading-[0.96] font-bold tracking-[-0.03em]">
+            <p className="mono dim-label" data-reveal>Saint-Maurice (VS) <span className="dim-line" aria-hidden="true" /> Entrée de maison</p>
+            <h2 id="plan-title" data-audit data-reveal-lines className="font-display mt-4 text-[clamp(2.6rem,5.2vw,5rem)] leading-[0.96] font-bold tracking-[-0.03em]">
               Le même trait, trois états.
             </h2>
             </div>
