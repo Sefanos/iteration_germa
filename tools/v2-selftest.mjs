@@ -16,6 +16,7 @@ for (const [name, vp, mobile] of [["1440", { width: 1440, height: 900 }, false],
   page.on("console", (m) => { if (m.type() === "error" || m.type() === "warning") errors.push(m.text()); });
   page.on("pageerror", (e) => errors.push(String(e)));
   await page.goto(BASE, { waitUntil: "networkidle" });
+  await page.waitForFunction(() => document.body.classList.contains("arrived"), null, { timeout: 15000 }).catch(() => {});
   await page.waitForTimeout(2000);
   await scrollThrough(page);
   const overflow = await page.evaluate(() => document.documentElement.scrollWidth - innerWidth);
@@ -31,6 +32,7 @@ for (const [name, vp, mobile] of [["1440", { width: 1440, height: 900 }, false],
   const frames = [];
   page.on("request", (r) => { if (r.url().includes("/media/garden/seq/")) frames.push(r.url()); });
   await page.goto(BASE, { waitUntil: "networkidle" });
+  await page.waitForFunction(() => document.body.classList.contains("arrived"), null, { timeout: 15000 }).catch(() => {});
   await page.waitForTimeout(1500);
   const r = await page.evaluate(() => ({
     stage: getComputedStyle(document.querySelector(".film-stage")).display,
@@ -49,6 +51,7 @@ for (const [name, vp, mobile] of [["1440", { width: 1440, height: 900 }, false],
   const errors = [];
   page.on("pageerror", (e) => errors.push(String(e)));
   await page.goto(BASE, { waitUntil: "networkidle" });
+  await page.waitForFunction(() => document.body.classList.contains("arrived"), null, { timeout: 15000 }).catch(() => {});
   await page.waitForTimeout(2500);
   const r = await page.evaluate(() => ({ poster: getComputedStyle(document.querySelector(".poster img")).opacity, h1: document.querySelector(".film-stage h1 .sr-only, .film-stage h1")?.textContent?.trim() }));
   console.log(`== frames blocked: poster opacity ${r.poster}, h1 "${r.h1}", page errors ${errors.length}`);
@@ -59,6 +62,7 @@ for (const [name, vp, mobile] of [["1440", { width: 1440, height: 900 }, false],
   const ctx = await browser.newContext({ viewport: { width: 1440, height: 900 } });
   const page = await ctx.newPage();
   await page.goto(BASE, { waitUntil: "networkidle" });
+  await page.waitForFunction(() => document.body.classList.contains("arrived"), null, { timeout: 15000 }).catch(() => {});
   await page.waitForTimeout(1500);
   const got = [];
   for (let i = 0; i < 24; i++) { await page.keyboard.press("Tab"); got.push(await page.evaluate(() => { const a = document.activeElement; return (a.getAttribute("aria-label") || a.textContent || a.tagName).trim().replace(/\s+/g, " ").slice(0, 22); })); }

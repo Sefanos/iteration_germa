@@ -1,4 +1,4 @@
-// 40 s scroll-through at 1440×900 → pitch/v3/scroll-1440.mp4 (recorded in Playwright, retimed with ffmpeg).
+// 40 s scroll-through at 1440×900 → pitch/v4/scroll-1440.mp4 (recorded in Playwright, retimed with ffmpeg).
 import { launch, BASE } from "./browser.mjs";
 import { mkdirSync, readdirSync, renameSync, rmSync } from "node:fs";
 import { execSync } from "node:child_process";
@@ -9,6 +9,7 @@ const browser = await launch();
 const ctx = await browser.newContext({ viewport: { width: 1440, height: 900 }, recordVideo: { dir: tmp, size: { width: 1440, height: 900 } } });
 const page = await ctx.newPage();
 await page.goto(BASE, { waitUntil: "networkidle" });
+  await page.waitForFunction(() => document.body.classList.contains("arrived"), null, { timeout: 15000 }).catch(() => {});
 await page.waitForTimeout(2500);
 const total = await page.evaluate(() => document.documentElement.scrollHeight - innerHeight);
 const steps = 1000;
@@ -27,5 +28,5 @@ await browser.close();
 const file = readdirSync(tmp).find((f) => f.endsWith(".webm"));
 const dur = Number(execSync(`ffprobe -v error -show_entries format=duration -of csv=p=0 ${tmp}/${file}`).toString());
 const factor = dur / 40;
-execSync(`ffmpeg -v error -y -i ${tmp}/${file} -vf "setpts=PTS/${factor.toFixed(4)}" -r 30 -c:v libx264 -crf 22 -preset medium -pix_fmt yuv420p -movflags +faststart pitch/v3/scroll-1440.mp4`);
-console.log(`saved pitch/v3/scroll-1440.mp4 (raw ${dur.toFixed(1)} s retimed to 40 s)`);
+execSync(`ffmpeg -v error -y -i ${tmp}/${file} -vf "setpts=PTS/${factor.toFixed(4)}" -r 30 -c:v libx264 -crf 22 -preset medium -pix_fmt yuv420p -movflags +faststart pitch/v4/scroll-1440.mp4`);
+console.log(`saved pitch/v4/scroll-1440.mp4 (raw ${dur.toFixed(1)} s retimed to 40 s)`);

@@ -22,7 +22,9 @@ filter=${filter%;}
 ffmpeg -v error -y "${INPUTS[@]}" -filter_complex "$filter" -map "[vout]" -c:v libx264 -crf 16 -pix_fmt yuv420p -r 24 "$C/garden-film.mp4"
 # exploration clips, in order, when present (each starts on the previous one's last frame)
 EXP=(E1-pool E2-terrace E3-hold E4-evening)
-parts=("$C/garden-film.mp4"); ids=(film)
+parts=(); ids=()
+[ -f "$E/D-arrival.mp4" ] && parts+=("$E/D-arrival.mp4") && ids+=(arrival)
+parts+=("$C/garden-film.mp4"); ids+=(film)
 for e in "${EXP[@]}"; do [ -f "$E/$e.mp4" ] && parts+=("$E/$e.mp4") && ids+=("explore-${e#E?-}"); done
 rm -rf "$OUT"; mkdir -p "$OUT/1280" "$OUT/800"
 json='{ "fps": '"$FPS"', "chapters": ['; total=0; sep=""

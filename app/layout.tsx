@@ -1,11 +1,12 @@
 import type { Metadata, Viewport } from "next";
-import { Schibsted_Grotesk, Instrument_Sans, IBM_Plex_Mono } from "next/font/google";
+import { Instrument_Serif, Instrument_Sans, IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
 
-const schibsted = Schibsted_Grotesk({
-  weight: ["500", "700"],
+const instrumentSerif = Instrument_Serif({
+  weight: "400",
+  style: ["normal", "italic"],
   subsets: ["latin"],
-  variable: "--font-schibsted",
+  variable: "--font-instrument-serif",
   display: "swap",
 });
 
@@ -44,7 +45,7 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="fr-CH" className={`${schibsted.variable} ${instrumentSans.variable} ${plexMono.variable}`}>
+    <html lang="fr-CH" className={`${instrumentSerif.variable} ${instrumentSans.variable} ${plexMono.variable}`}>
       <body className="min-h-dvh bg-canvas text-ink">{children}</body>
     </html>
   );

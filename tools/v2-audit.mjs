@@ -7,6 +7,7 @@ const lum = ([r, g, b]) => { const f = (v) => { v /= 255; return v <= 0.03928 ? 
 const browser = await launch();
 const page = await browser.newPage({ viewport: { width: 1440, height: 900 } });
 await page.goto(BASE, { waitUntil: "networkidle" });
+  await page.waitForFunction(() => document.body.classList.contains("arrived"), null, { timeout: 15000 }).catch(() => {});
 await page.waitForTimeout(3000);
 const range = await page.evaluate(() => document.querySelector(".film").offsetHeight - innerHeight);
 const bands = await page.evaluate(() => [...document.querySelectorAll(".band")].map((b) => ({ a: +b.dataset.a, b: +b.dataset.b })));
@@ -110,6 +111,7 @@ await page.close();
 const phone = await browser.newContext({ viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true });
 const pp = await phone.newPage();
 await pp.goto(BASE, { waitUntil: "networkidle" });
+  await pp.waitForFunction(() => document.body.classList.contains("arrived"), null, { timeout: 15000 }).catch(() => {});
 await pp.addScriptTag({ content: axe });
 const res2 = await pp.evaluate(async () => { const r = await axe.run(document, { runOnly: ["color-contrast"] }); return r.violations.map((v) => v.nodes.map((n) => n.html.slice(0, 120) + " :: " + n.failureSummary.slice(0, 200))); });
 console.log("axe colour-contrast (phone, static):", res2.length ? JSON.stringify(res2, null, 1) : "0 violations");

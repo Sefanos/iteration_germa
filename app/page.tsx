@@ -9,6 +9,10 @@ import ShowroomV2 from "@/components/v2/ShowroomV2";
 import ContactV2 from "@/components/v2/ContactV2";
 import Reveal from "@/components/v2/Reveal";
 import Cursor from "@/components/garden/Cursor";
+import Nav from "@/components/garden/Nav";
+import Loader from "@/components/garden/Loader";
+import Smooth from "@/components/garden/Smooth";
+import TextReveal from "@/components/garden/TextReveal";
 
 export default function Page() {
   return (
@@ -19,8 +23,11 @@ export default function Page() {
       >
         Aller au contenu
       </a>
+      <Loader />
+      <Smooth />
       <CanvasMount />
       <SectionDim />
+      <Nav />
       <GardenHero />
       <main id="main" tabIndex={-1} className="relative z-[1]">
         <Planches />
@@ -32,6 +39,7 @@ export default function Page() {
       <ScrollDrive />
       <Reveal />
       <Cursor />
+      <TextReveal />
     </>
   );
 }

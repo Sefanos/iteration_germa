@@ -27,8 +27,8 @@ export default function ContactV2() {
       <div className="mx-auto max-w-[1440px] px-5 pt-24 pb-10 sm:px-8 lg:px-[6.6vw] lg:pt-[16vh] lg:pb-12">
         <div className="head">
           <span className="head-veil" aria-hidden="true" />
-        <p className="mono dim-label">Monthey · Etoy · Genève <span className="dim-line" aria-hidden="true" /> Contact</p>
-        <h2 id="contact-title" data-audit className="font-display mt-4 max-w-[12ch] text-[clamp(3rem,7vw,7rem)] leading-[0.94] font-bold tracking-[-0.035em]">
+        <p className="mono dim-label" data-reveal>Monthey · Etoy · Genève <span className="dim-line" aria-hidden="true" /> Contact</p>
+        <h2 id="contact-title" data-audit data-reveal-lines className="font-display mt-4 max-w-[12ch] text-[clamp(3rem,7vw,7rem)] leading-[0.94] font-bold tracking-[-0.035em]">
           La nature prend forme.
         </h2>
         </div>

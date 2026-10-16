@@ -14,8 +14,8 @@ export default function ShowroomV2() {
           <div className="lg:col-span-5">
             <div className="head">
               <span className="head-veil" aria-hidden="true" />
-            <p className="mono dim-label">Etoy (VD) <span className="dim-line" aria-hidden="true" /> Showroom</p>
-            <h2 id="showroom-title" data-audit className="font-display mt-4 text-[clamp(2.6rem,5.2vw,5rem)] leading-[0.96] font-bold tracking-[-0.03em]">
+            <p className="mono dim-label" data-reveal>Etoy (VD) <span className="dim-line" aria-hidden="true" /> Showroom</p>
+            <h2 id="showroom-title" data-audit data-reveal-lines className="font-display mt-4 text-[clamp(2.6rem,5.2vw,5rem)] leading-[0.96] font-bold tracking-[-0.03em]">
               Toucher la matière.
             </h2>
             </div>

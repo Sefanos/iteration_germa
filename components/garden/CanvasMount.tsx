@@ -4,6 +4,7 @@ import { useEffect, useState, useCallback } from "react";
 import dynamic from "next/dynamic";
 import { GATES, gated } from "./gates";
 import { bus } from "./state";
+import Arrival from "./Arrival";
 
 const PageCanvas = dynamic(() => import("./PageCanvas"), { ssr: false });
 
@@ -17,6 +18,6 @@ export default function CanvasMount() {
     apply();
     return () => mqls.forEach((m) => m.removeEventListener("change", apply));
   }, []);
-  const onReady = useCallback(() => { bus.ready?.(); document.body.classList.add("canvas-ready"); }, []);
-  return on ? <PageCanvas onReady={onReady} /> : null;
+  const onReady = useCallback(() => { bus.ready?.(); document.body.classList.add("canvas-ready"); document.dispatchEvent(new Event("garden:ready")); }, []);
+  return on ? (<><PageCanvas onReady={onReady} /><Arrival /></>) : null;
 }

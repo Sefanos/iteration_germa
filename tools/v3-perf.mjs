@@ -7,6 +7,7 @@ for (const [name, vp, mobile] of [["1440", { width: 1440, height: 900 }, false],
   let js = 0, img = 0, jsFiles = 0;
   page.on("response", async (r) => { const u = r.url(); let len = Number(r.headers()["content-length"] || 0); if (!len) { try { len = (await r.body()).length; } catch { len = 0; } } if (u.includes("/_next/static/") && u.endsWith(".js")) { js += len; jsFiles++; } if (/\.(webp|jpg|png|avif)(\?|$)/.test(u) || u.includes("/_next/image")) img += len; });
   await page.goto(BASE, { waitUntil: "load" });
+  await page.waitForFunction(() => document.body.classList.contains("arrived"), null, { timeout: 15000 }).catch(() => {});
   await page.waitForTimeout(3000);
   const m = await page.evaluate(() => new Promise((res) => {
     let lcp = 0, cls = 0;

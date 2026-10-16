@@ -4,6 +4,7 @@ import { launch, BASE } from "./browser.mjs";
 const browser = await launch();
 const page = await browser.newPage({ viewport: { width: 1440, height: 900 } });
 await page.goto(BASE, { waitUntil: "networkidle" });
+  await page.waitForFunction(() => document.body.classList.contains("arrived"), null, { timeout: 15000 }).catch(() => {});
 await page.waitForTimeout(2500);
 const range = await page.evaluate(() => document.querySelector(".film").offsetHeight - innerHeight);
 for (const step of [120, 240, 360]) {

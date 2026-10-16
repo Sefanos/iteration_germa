@@ -4,46 +4,13 @@ import { useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import { filmState, bus, GARDEN, chapter } from "@/components/garden/state";
 import { bandOpacity, bandK, clamp, splitText, type Band } from "@/components/v2/scrub";
-import { legacy } from "@/lib/content";
-import SunArc from "./SunArc";
 import Contours from "./Contours";
+import Wordmark from "./Wordmark";
 
 
 import { GATES } from "./gates";
 
 const STEM_END = 0.86; // the ink stem finishes drawing as the settle lands
-
-const NAV = [
-  { href: "#realisations", label: "Réalisations" },
-  { href: "#savoir-faire", label: "Savoir-faire" },
-  { href: "#showroom", label: "Showroom" },
-  { href: "#contact", label: "Contact" },
-];
-
-function Nav() {
-  return (
-    <header className="on-moss relative z-30 h-16 bg-moss text-moss-text">
-      <nav aria-label="Navigation principale" className="mx-auto flex h-full max-w-[1440px] items-center justify-between px-5 sm:px-8 lg:px-[6.6vw]">
-        <a href={legacy.home} aria-label="Germa Paysages, accueil" className="flex items-center">
-          <Image src="/media/germa-logo.svg" alt="Germa Paysages" width={416} height={181} priority unoptimized className="h-9 w-auto" />
-        </a>
-        <ul className="hidden items-center gap-8 md:flex">
-          {NAV.map((n) => (
-            <li key={n.href}>
-              <a href={n.href} className="nav-link font-display text-[0.9375rem] font-medium text-moss-text transition-colors hover:text-white">
-                {n.label}
-              </a>
-            </li>
-          ))}
-          <li className="hidden lg:block"><SunArc /></li>
-        </ul>
-        <a href="#contact" className="btn-cta hidden sm:inline-flex">
-          Parler de mon projet
-        </a>
-      </nav>
-    </header>
-  );
-}
 
 export default function GardenHero() {
   const film = useRef<HTMLElement>(null);
@@ -119,12 +86,14 @@ export default function GardenHero() {
     };
 
     function apply(p: number, now: number) {
-      // film: construction frames over 0..filmEnd, then hold the last frame
-      const ch = chapter("film");
-      const f = ch.start + clamp(p / GARDEN.filmEnd, 0, 1) * (ch.end - ch.start);
-      if (Math.abs(f - filmState.frame) > 0.01) {
-        filmState.frame = f;
-        bus.film?.();
+      // film: construction frames over 0..filmEnd, then hold the last frame (the arrival owns the frame until it lands)
+      if (document.body.classList.contains("arrived")) {
+        const ch = chapter("film");
+        const f = ch.start + clamp(p / GARDEN.filmEnd, 0, 1) * (ch.end - ch.start);
+        if (Math.abs(f - filmState.frame) > 0.01) {
+          filmState.frame = f;
+          bus.film?.();
+        }
       }
       // bands (delta-gated)
       if (loadStart && loadK < 1) {
@@ -218,6 +187,7 @@ export default function GardenHero() {
       kick();
     };
     const disable = () => {
+      document.body.classList.add("arrived");
       if (!on) return;
       on = false;
       setScrub(false);
@@ -256,14 +226,14 @@ export default function GardenHero() {
     <section ref={film} className="film" aria-label="Du trait au jardin">
       {/* ---------- the scrubbed stage (desktop, motion allowed) ---------- */}
       <div ref={stage} className="film-stage">
-        <Nav />
 
-        <div className="layer poster top-16" aria-hidden="true">
-          <Image src={GARDEN.finished} alt="" fill priority sizes="100vw" className={`object-cover transition-opacity duration-700 ${drawn ? "opacity-0" : "opacity-100"}`} />
+        <div className="layer poster" aria-hidden="true">
+          <Image src={GARDEN.arrivalPoster} alt="" fill priority sizes="100vw" className={`object-cover transition-opacity duration-700 ${drawn ? "opacity-0" : "opacity-100"}`} />
         </div>
-        <div className="layer scrim-base top-16" aria-hidden="true" />
-        <div className="layer light-sweep top-16" aria-hidden="true" />
-        <div className="layer top-16" aria-hidden="true"><Contours /></div>
+        <Wordmark />
+        <div className="layer scrim-base" aria-hidden="true" />
+        <div className="layer light-sweep" aria-hidden="true" />
+        <div className="layer" aria-hidden="true"><Contours /></div>
 
         <svg className="ink-line" aria-hidden="true" focusable="false">
           <path className="stem" />
@@ -322,7 +292,6 @@ export default function GardenHero() {
 
       {/* ---------- the static hero (phones, portrait, coarse pointer, reduced motion) ---------- */}
       <div className="film-static">
-        <Nav />
         <div className="relative aspect-[16/10] w-full sm:aspect-[16/9]">
           <Image src={GARDEN.finished} alt="Jardin de vision : villa contemporaine, piscine et pergola au-dessus du Léman (illustration)" fill priority sizes="100vw" className="object-cover" />
         </div>
