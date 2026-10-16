@@ -1,23 +1,30 @@
 import type { Metadata, Viewport } from "next";
-import { Instrument_Serif, Manrope } from "next/font/google";
+import { Schibsted_Grotesk, Instrument_Sans, IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
 
-const instrument = Instrument_Serif({
-  weight: "400",
-  style: ["normal", "italic"],
+const schibsted = Schibsted_Grotesk({
+  weight: ["500", "700"],
   subsets: ["latin"],
-  variable: "--font-instrument",
+  variable: "--font-schibsted",
   display: "swap",
 });
 
-const manrope = Manrope({
+const instrumentSans = Instrument_Sans({
+  weight: ["400", "500"],
   subsets: ["latin"],
-  variable: "--font-manrope",
+  variable: "--font-instrument-sans",
+  display: "swap",
+});
+
+const plexMono = IBM_Plex_Mono({
+  weight: ["400", "500"],
+  subsets: ["latin"],
+  variable: "--font-plex-mono",
   display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Germa Paysages — La nature prend forme.",
+  title: "Germa Paysages, du trait au jardin",
   description:
     "Germa Paysages Sàrl, aménagements extérieurs à Monthey et à Etoy : conception, réalisation et entretien de jardins en Valais et sur le canton de Vaud.",
   robots: {
@@ -30,15 +37,15 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#18352A",
+  themeColor: "#1E2D24",
   width: "device-width",
   initialScale: 1,
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="fr-CH" className={`${instrument.variable} ${manrope.variable}`}>
-      <body className="min-h-dvh bg-limestone text-charcoal">{children}</body>
+    <html lang="fr-CH" className={`${schibsted.variable} ${instrumentSans.variable} ${plexMono.variable}`}>
+      <body className="min-h-dvh bg-canvas text-ink">{children}</body>
     </html>
   );
 }

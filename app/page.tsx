@@ -1,29 +1,29 @@
-import Header from "@/components/Header";
-import Hero from "@/components/Hero";
-import Chapter from "@/components/maquette/Chapter";
-import Realisations from "@/components/Realisations";
-import Tagline from "@/components/Tagline";
-import SavoirFaire from "@/components/SavoirFaire";
-import Showroom from "@/components/Showroom";
-import Contact from "@/components/Contact";
-import PageMotion from "@/components/PageMotion";
-import Grain from "@/components/Grain";
+import HeroFilm from "@/components/v2/HeroFilm";
+import Planches from "@/components/v2/Planches";
+import Index from "@/components/v2/Index";
+import PlanJardin from "@/components/v2/PlanJardin";
+import ShowroomV2 from "@/components/v2/ShowroomV2";
+import ContactV2 from "@/components/v2/ContactV2";
+import Reveal from "@/components/v2/Reveal";
 
 export default function Page() {
   return (
     <>
-      <Header />
-      <main>
-        <Hero />
-        <Chapter />
-        <Realisations />
-        <Tagline />
-        <SavoirFaire />
-        <Showroom />
+      <a
+        href="#main"
+        className="sr-only focus:not-sr-only focus:absolute focus:top-3 focus:left-3 focus:z-50 focus:bg-ink focus:px-4 focus:py-2 focus:text-canvas"
+      >
+        Aller au contenu
+      </a>
+      <HeroFilm />
+      <main id="main" tabIndex={-1}>
+        <Planches />
+        <Index />
+        <PlanJardin />
+        <ShowroomV2 />
       </main>
-      <Contact />
-      <PageMotion />
-      <Grain />
+      <ContactV2 />
+      <Reveal />
     </>
   );
 }

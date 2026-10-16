@@ -1,7 +1,7 @@
 {
   "_source": "Generated with the Higgsfield MCP on 2026-10-15 for prompts/03-mvp-landing.md. H1 animates Germa's real Chermignon photo; M1 and M2 are material illustrations, not Germa projects. No people, text or logos in any output.",
   "creditsBefore": 950,
-  "generationsSubmitted": 29,
+  "generationsSubmitted": 38,
   "h1Prompt": "A real architectural photograph of a finished alpine garden, brought gently to life. Very slow, perfectly steady push-in toward the stepping-stone path, about 4% over the whole clip. Warm late-afternoon light. The lawn and larch trees stir in a faint mountain breeze. Everything built stays perfectly still and identical to the photo: flagstones, bollard lights, larch fence, chalet. Calm, premium, photorealistic.",
   "h1NegativePrompt": "morphing, warping, new objects, extra plants, people, animals, text, logos, camera shake, fast motion, lens flare, colour shift, HDR, CGI look, time-lapse",
   "entries": [
@@ -476,6 +476,169 @@
         "content/media/higgsfield/C/maquette-sequence.mp4 (xfade concat)",
         "public/media/maquette/seq/{1600,800}/f001–f147.webp",
         "public/media/maquette-poster.jpg (last frame)"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "V-end",
+      "take": 1,
+      "file": "content/media/higgsfield/V/V-end-take1.png",
+      "source": null,
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "cb92dad2-af12-469b-a24c-0728ffae7108",
+      "seed": null,
+      "status": "candidate",
+      "check": "Candidate ending frame A (villa, pool, pergola). Clean, no text or people. Generated illustration, not a Germa project; awaiting the user's pick before any video credits.",
+      "usedOnPage": false
+    },
+    {
+      "id": "V-end",
+      "take": 2,
+      "file": "content/media/higgsfield/V/V-end-take2.png",
+      "source": null,
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "c94b1ec9-2b9a-402d-bccd-d1b1e26a2c1d",
+      "seed": null,
+      "status": "candidate",
+      "check": "Candidate ending frame B; calmer left third for captions. Recommended. Generated illustration, not a Germa project; awaiting the user's pick before any video credits.",
+      "usedOnPage": false
+    },
+    {
+      "id": "V-start",
+      "take": 1,
+      "file": "content/media/higgsfield/V/V-start-take1.png",
+      "source": "V-end-take2 as image reference",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "1af4a4c2-c284-414d-94df-bff3d0729280",
+      "seed": null,
+      "status": "candidate",
+      "check": "Start frame edited from end B: bare meadow, stakes, gravel pile; same camera and villa. Generated illustration, not a Germa project; awaiting the user's pick before any video credits.",
+      "usedOnPage": false
+    },
+    {
+      "id": "V-start",
+      "take": 2,
+      "file": "content/media/higgsfield/V/V-start-take2.png",
+      "source": "V-end-take2 as image reference",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "6e1cc6b3-46ff-428d-950a-6d542c29703b",
+      "seed": null,
+      "status": "candidate",
+      "check": "Start frame take 2; more graded earth and stakes. Recommended for the pool-terrace outline. Generated illustration, not a Germa project; awaiting the user's pick before any video credits.",
+      "usedOnPage": false
+    },
+    {
+      "id": "U6",
+      "take": 1,
+      "file": "content/media/higgsfield/U/U6/chablais-zen-2k.png",
+      "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/photos_chantiers_dom_091.jpg",
+      "model": "bytedance_image_upscale",
+      "settings": {
+        "resolution": "2k",
+        "outputSize": "3978x2160"
+      },
+      "jobId": "7c5e1fe3-faf8-44ec-9257-e3ed7364e055",
+      "seed": null,
+      "status": "approved",
+      "check": "Faithful 2k upscale of Germa's 840 px photo, checked at 100%: no invented detail. Lets the planche display up to 1.25x without exceeding native size.",
+      "derived": [
+        "public/media/projects/chablais-zen.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "U8",
+      "take": 1,
+      "file": "content/media/higgsfield/U/U8/villars-chalet-2k.png",
+      "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1548_1600x1200_1.jpg",
+      "model": "bytedance_image_upscale",
+      "settings": {
+        "resolution": "2k",
+        "outputSize": "3978x2160"
+      },
+      "jobId": "924471d2-bfb2-476c-82d5-f0301c5c53e8",
+      "seed": null,
+      "status": "approved",
+      "check": "Faithful 2k upscale of Germa's 840 px photo, checked at 100%: no invented detail. Lets the planche display up to 1.25x without exceeding native size.",
+      "derived": [
+        "public/media/projects/villars-chalet.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "U7",
+      "take": 1,
+      "file": "content/media/higgsfield/U/U7/sans-acces-terrasse-2k.png",
+      "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/img_1042_1600x1200.jpg",
+      "model": "bytedance_image_upscale",
+      "settings": {
+        "resolution": "2k",
+        "outputSize": "3978x2160"
+      },
+      "jobId": "fc1e4f3b-721b-4879-bec7-c8f6d851e812",
+      "seed": null,
+      "status": "approved",
+      "check": "Faithful 2k upscale of Germa's 840 px photo, checked at 100%: no invented detail. Lets the planche display up to 1.25x without exceeding native size.",
+      "derived": [
+        "public/media/projects/sans-acces-terrasse.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "U10",
+      "take": 1,
+      "file": "content/media/higgsfield/U/U5b/st-leonard-wall-2k.png",
+      "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/a_12_1280x960.jpg",
+      "model": "bytedance_image_upscale",
+      "settings": {
+        "resolution": "2k",
+        "outputSize": "3978x2160"
+      },
+      "jobId": "448dd05b-7ac2-467b-88c5-cba0e0e99954",
+      "seed": null,
+      "status": "approved",
+      "check": "Faithful 2k upscale of Germa's 840 px photo, checked at 100%: no invented detail. Lets the planche display up to 1.25x without exceeding native size.",
+      "derived": [
+        "public/media/projects/st-leonard-wall.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "U11",
+      "take": 1,
+      "file": "content/media/higgsfield/U/U5b/saint-maurice-entree-2k.png",
+      "source": "https://www.germa-paysages.ch/sites/default/files/2023-04/realisation_3.jpg",
+      "model": "bytedance_image_upscale",
+      "settings": {
+        "resolution": "2k",
+        "outputSize": "3978x2160"
+      },
+      "jobId": "a4b03908-2150-4cd7-9ec2-e6d8d651920b",
+      "seed": null,
+      "status": "approved",
+      "check": "Faithful 2k upscale of Germa's 840 px photo, checked at 100%: no invented detail. Lets the planche display up to 1.25x without exceeding native size.",
+      "derived": [
+        "public/media/projects/saint-maurice-entree.jpg"
       ],
       "usedOnPage": true
     }

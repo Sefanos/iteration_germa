@@ -1,229 +1,380 @@
 @import "tailwindcss";
 
 @theme {
-  --color-forest: #18352a;
-  --color-charcoal: #242823;
-  --color-limestone: #f3f0e6;
-  --color-sage: #a9b9a4;
-  --color-terracotta: #b47d5c;
-  --color-lime: #95c11f;
+  --color-canvas: #d3cfc6;
+  --color-panel: #e2ded6;
+  --color-panel-edge: #b9b4aa;
+  --color-ink: #15171a;
+  --color-graphite: #383c39;
+  --color-moss: #1e2d24;
+  --color-moss-text: #d3cfc6;
+  --color-moss-secondary: #b9bdb4;
+  --color-accent: #95c11f;
+  --color-accent-hover: #a6d02f;
 
-  --font-display: var(--font-instrument), "Times New Roman", serif;
-  --font-sans: var(--font-manrope), system-ui, sans-serif;
-
-  --breakpoint-xs: 30rem;
+  --font-display: var(--font-schibsted), "Helvetica Neue", Arial, sans-serif;
+  --font-sans: var(--font-instrument-sans), system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, monospace;
 }
 
 :root {
   color-scheme: light;
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-inout: cubic-bezier(0.65, 0, 0.35, 1);
+  /* light text-shadow token: ink glyphs over plaster footage */
+  --tshadow: 0 1px 2px rgba(211, 207, 198, 0.95), 0 3px 12px rgba(211, 207, 198, 0.8), 0 10px 44px rgba(211, 207, 198, 0.85);
+}
+
+html,
+body {
+  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 html {
   scroll-behavior: smooth;
 }
 
-@media (prefers-reduced-motion: reduce) {
-  html {
-    scroll-behavior: auto;
-  }
-}
-
 body {
-  background-color: var(--color-limestone);
-  color: var(--color-charcoal);
+  background-color: var(--color-canvas);
+  color: var(--color-ink);
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 
 ::selection {
-  background: var(--color-sage);
-  color: var(--color-forest);
+  background: var(--color-ink);
+  color: var(--color-canvas);
 }
 
 :focus-visible {
-  outline: 2px solid var(--color-terracotta);
+  outline: 2px solid var(--color-ink);
   outline-offset: 4px;
 }
-
-/* Hero headline: hidden until GSAP has split it (or reduced motion restores it). */
-.hero-title[data-state="pending"] {
-  visibility: hidden;
+.on-moss :focus-visible {
+  outline-color: var(--color-accent);
 }
 
-.hero-line {
-  padding-bottom: 0.08em;
-  margin-bottom: -0.08em;
-}
-
-.eyebrow {
-  font-size: 0.6875rem;
-  letter-spacing: 0.22em;
+@layer components {
+.mono {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
-  font-weight: 600;
 }
 
-.eyebrow::before {
-  content: "";
-  display: inline-block;
-  width: 0.4rem;
-  height: 0.4rem;
-  margin-right: 0.75rem;
-  vertical-align: 0.1em;
-  background: var(--color-lime);
-}
-
-.btn-primary {
+.btn-cta {
   display: inline-flex;
   align-items: center;
-  gap: 0.75rem;
-  border-radius: 9999px;
-  background: var(--color-forest);
-  color: var(--color-limestone);
-  padding: 1rem 1.75rem;
-  font-size: 0.875rem;
-  font-weight: 600;
-  letter-spacing: 0.02em;
-  transition: background-color 0.3s ease, transform 0.3s ease;
+  justify-content: center;
+  min-height: 3rem;
+  padding: 0 1.5rem;
+  border-radius: 2px;
+  background: var(--color-accent);
+  color: var(--color-ink);
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 0.9375rem;
+  letter-spacing: 0.01em;
+  text-shadow: none;
+  transition: background-color 0.35s var(--ease-out), transform 0.35s var(--ease-out);
+}
+.btn-cta:hover {
+  background: var(--color-accent-hover);
+}
+@media (pointer: coarse) {
+  .btn-cta {
+    min-height: 44px;
+  }
 }
 
-.btn-primary:hover {
-  background: var(--color-charcoal);
-}
-
-.btn-primary--light {
-  background: var(--color-limestone);
-  color: var(--color-forest);
-}
-
-.btn-primary--light:hover {
-  background: #ffffff;
-}
-
-.link-line {
-  display: inline-flex;
-  align-items: baseline;
-  gap: 0.5rem;
-  font-size: 0.875rem;
-  font-weight: 600;
-  letter-spacing: 0.02em;
+.link-ink {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 0.9375rem;
   text-decoration: underline;
   text-decoration-thickness: 1px;
-  text-underline-offset: 0.45em;
-  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
-  transition: text-decoration-color 0.3s ease, color 0.3s ease;
+  text-underline-offset: 0.4em;
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  transition: text-decoration-color 0.35s var(--ease-out);
 }
-
-.link-line:hover {
-  color: var(--color-terracotta);
+.link-ink:hover {
   text-decoration-color: currentColor;
 }
-
-.frame {
-  position: relative;
-  overflow: hidden;
-  background: var(--color-sage);
 }
 
-.frame img,
-.frame video,
-.wipe-media img {
+/* ---------- The film hero ---------- */
+
+.film {
+  position: relative;
+  height: 860svh;
+}
+.film-stage {
+  position: sticky;
+  top: 0;
+  height: 100svh;
+  overflow: hidden;
+  background: var(--color-canvas);
+}
+.film-stage > .layer {
+  position: absolute;
+  inset: 0;
+}
+.film-stage canvas,
+.film-stage .poster img,
+.film-stage .real img,
+.film-stage .real video {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
+  will-change: transform;
 }
-
-.parallax-media img {
-  scale: 1.16;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .parallax-media img {
-    scale: 1;
-  }
-}
-
-/* Hero */
-.hero-frame {
+.film-stage .real {
+  clip-path: polygon(0 0, 0 0, 0 100%, 0 100%);
   will-change: clip-path;
 }
-.hero-zoom,
-.hero-media {
-  transform-origin: 50% 55%;
-}
-.hero-title em {
-  font-style: italic;
-}
 
-/* Background colour morph: the showroom owns its colour without JS or under reduced motion. */
-#showroom {
-  background-color: var(--color-forest);
-}
-
-/* Tagline band */
-.tagline-text {
-  font-size: 13vw;
-  letter-spacing: -0.01em;
-}
-@media (prefers-reduced-motion: reduce) {
-  .tagline-track {
-    text-align: center;
-  }
-  .tagline-text {
-    font-size: clamp(2.5rem, 8.4vw, 9rem);
-  }
-}
-
-/* Film grain */
-.grain {
-  position: fixed;
-  inset: 0;
-  z-index: 60;
+/* 1. global base scrim: a soft plaster lift over the text column, always on */
+.scrim-base {
   pointer-events: none;
-  opacity: 0.055;
-  mix-blend-mode: multiply;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-  background-size: 220px 220px;
+  background: radial-gradient(ellipse 58% 90% at 22% 42%, rgba(211, 207, 198, 0.58) 0%, rgba(211, 207, 198, 0.3) 45%, rgba(211, 207, 198, 0) 76%);
 }
 
-/* Custom cursor label (desktop pointers) */
-.cursor-label {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 70;
-  pointer-events: none;
-  translate: -50% -50%;
-  transform: scale(0.6);
-  opacity: 0;
-  visibility: hidden;
-  padding: 0.85rem 1.1rem;
-  border-radius: 9999px;
-  background: var(--color-forest);
-  color: var(--color-limestone);
-  font-size: 0.75rem;
-  font-weight: 600;
-  letter-spacing: 0.08em;
-  white-space: nowrap;
-}
-body.has-cursor-label .project-cta {
+/* 2. per-band scrim riding --k */
+.band {
   position: absolute;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-  clip-path: inset(50%);
-  white-space: nowrap;
+  left: clamp(1.25rem, 6.6vw, 6rem);
+  top: 17vh;
+  width: min(38vw, 560px);
+  opacity: 0;
+  text-shadow: var(--tshadow);
+  pointer-events: none;
+  isolation: isolate; /* keeps the ::before scrim (z-index -1) inside the band, above the footage */
 }
-body.has-cursor-label [data-cursor] {
-  cursor: none;
+.band.is-on {
+  pointer-events: auto;
+}
+.band::before {
+  content: "";
+  position: absolute;
+  inset: -45% -55%;
+  z-index: -1;
+  pointer-events: none;
+  opacity: calc(0.25 + 0.75 * var(--k, 1));
+  /* a true ellipse that dies out inside its own box, so no edge ever shows over the footage */
+  background: radial-gradient(ellipse 50% 50% at 50% 52%, rgba(211, 207, 198, var(--scrim, 0.7)) 0%, rgba(211, 207, 198, calc(var(--scrim, 0.7) * 0.95)) 50%, rgba(211, 207, 198, calc(var(--scrim, 0.7) * 0.55)) 75%, rgba(211, 207, 198, 0) 100%);
+}
+.band.e-follow::before {
+  display: none; /* band 6 carries its own title-block panel */
+}
+.band .btn-cta {
+  text-shadow: none;
 }
 
-/* Maquette chapter */
-.maquette canvas {
-  display: block;
+/* 4. chip scrim for mono annotations over footage */
+.chip {
+  display: inline-block;
+  padding: 0.35rem 0.6rem;
+  background: rgba(211, 207, 198, 0.72);
+  border: 1px solid rgba(21, 23, 26, 0.18);
+  border-radius: 2px;
+  backdrop-filter: blur(10px);
+  text-shadow: none;
 }
-.phase {
-  will-change: opacity;
+
+.phase-word {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(3rem, 6.2vw, 6rem);
+  line-height: 0.96;
+  letter-spacing: -0.025em;
+}
+.phase-line {
+  font-size: clamp(1.0625rem, 1.35vw, 1.3125rem);
+  line-height: 1.45;
+  max-width: 30ch;
+  color: var(--color-ink);
+}
+.settle-title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: clamp(3rem, 5.2vw, 5.25rem);
+  line-height: 0.98;
+  letter-spacing: -0.03em;
+  max-width: 14ch;
+  text-wrap: balance;
+}
+
+/* entrances: transform + opacity only, scrubbed off --k, reversible */
+.w,
+.c {
+  display: inline-block;
+  will-change: transform, opacity;
+}
+.c {
+  --kc: clamp(0, (var(--k, 0) - var(--th, 0)) * 2.6, 1);
+}
+/* pen-write: ordered thresholds, opacity only */
+.e-write .c {
+  opacity: var(--kc);
+}
+/* rise: words lift 18px into place */
+.e-rise .w {
+  --kc: clamp(0, (var(--k, 0) - var(--th, 0)) * 2.8, 1);
+  opacity: var(--kc);
+  transform: translateY(calc((1 - var(--kc)) * 18px));
+}
+/* resolve: blur-to-sharp crossfade, static blur on the soft copy */
+.e-resolve {
+  position: relative;
+}
+.e-resolve .soft {
+  position: absolute;
+  inset: 0;
+  filter: blur(10px);
+  opacity: calc(1 - var(--k, 0));
+}
+.e-resolve .sharp {
+  opacity: var(--k, 0);
+}
+/* sweep: characters brighten left to right with a slight slide */
+.e-sweep .c {
+  opacity: var(--kc);
+  transform: translateX(calc((1 - var(--kc)) * -6px));
+}
+/* settle: word-by-word rise, then the CTA row */
+.e-settle .w {
+  --kc: clamp(0, (var(--k, 0) - var(--th, 0)) * 3, 1);
+  opacity: var(--kc);
+  transform: translateY(calc((1 - var(--kc)) * 14px));
+}
+.e-settle .row {
+  --kb: clamp(0, (var(--k, 0) - 0.72) * 5, 1);
+  opacity: var(--kb);
+  transform: translateY(calc((1 - var(--kb)) * 10px));
+}
+/* follow: the line slides in along the contour's direction */
+.e-follow .inner {
+  --kf: clamp(0, (var(--k, 0) - 0.1) * 1.4, 1);
+  opacity: var(--kf);
+  transform: translateX(calc((1 - var(--kf)) * 22px));
+}
+
+/* the ink line */
+.ink-line {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: visible;
+}
+.ink-line path,
+.ink-line line {
+  fill: none;
+  stroke: var(--color-ink);
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.scroll-cue {
+  position: absolute;
+  right: clamp(1.25rem, 6.6vw, 6rem);
+  bottom: 2.25rem;
+  color: var(--color-graphite);
+}
+@media (max-height: 560px) {
+  .scroll-cue {
+    display: none;
+  }
+}
+
+/* ---------- the five static-hero gates: identical strings in HeroFilm.tsx ---------- */
+.film-static {
+  display: none;
+}
+@media (max-width: 720px),
+  (orientation: portrait) and (max-width: 1024px),
+  (orientation: portrait) and (pointer: coarse),
+  (orientation: landscape) and (pointer: coarse) and (max-height: 560px),
+  (prefers-reduced-motion: reduce) {
+  .film {
+    height: auto;
+  }
+  .film-stage {
+    display: none;
+  }
+  .film-static {
+    display: block;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* ---------- below the hero ---------- */
+.ink-line.on-moss-line path {
+  stroke: var(--color-moss-text);
+}
+section > .ink-line,
+footer > .ink-line {
+  z-index: 1;
+}
+
+.rv,
+.board {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 0.9s var(--ease-out), transform 0.9s var(--ease-out);
+}
+.rv.in,
+.board.in {
+  opacity: 1;
+  transform: none;
+}
+.board:nth-child(2) { transition-delay: 0.08s; }
+.board:nth-child(3) { transition-delay: 0.16s; }
+.board.in:hover { transition-delay: 0s; }
+
+.idx-row .idx-preview {
+  opacity: 0;
+  transform: translateY(-50%) scale(0.96);
+  transition: opacity 0.45s var(--ease-out), transform 0.6s var(--ease-out);
+}
+.idx-row:hover .idx-preview,
+.idx-row:focus-within .idx-preview,
+.idx-row.in .idx-preview {
+  opacity: 1;
+  transform: translateY(-50%) scale(1);
+}
+.idx-row > a {
+  transition: padding-left 0.5s var(--ease-out);
+}
+.idx-row > a:hover {
+  padding-left: 0.5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rv,
+  .board {
+    opacity: 1;
+    transform: none;
+  }
+  .idx-row .idx-preview {
+    opacity: 1;
+    transform: translateY(-50%);
+  }
 }
