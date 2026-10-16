@@ -1,7 +1,7 @@
 {
   "_source": "Generated with the Higgsfield MCP on 2026-10-15 for prompts/03-mvp-landing.md. H1 animates Germa's real Chermignon photo; M1 and M2 are material illustrations, not Germa projects. No people, text or logos in any output.",
   "creditsBefore": 950,
-  "generationsSubmitted": 38,
+  "generationsSubmitted": 52,
   "h1Prompt": "A real architectural photograph of a finished alpine garden, brought gently to life. Very slow, perfectly steady push-in toward the stepping-stone path, about 4% over the whole clip. Warm late-afternoon light. The lawn and larch trees stir in a faint mountain breeze. Everything built stays perfectly still and identical to the photo: flagstones, bollard lights, larch fence, chalet. Calm, premium, photorealistic.",
   "h1NegativePrompt": "morphing, warping, new objects, extra plants, people, animals, text, logos, camera shake, fast motion, lens flare, colour shift, HDR, CGI look, time-lapse",
   "entries": [
@@ -641,10 +641,266 @@
         "public/media/projects/saint-maurice-entree.jpg"
       ],
       "usedOnPage": true
+    },
+    {
+      "id": "K1",
+      "take": 1,
+      "file": "content/media/higgsfield/K/K1.png",
+      "source": "K6 (end frame B) and K0 as image references",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "c054b22c-791c-4508-8104-78a314766221",
+      "seed": null,
+      "status": "approved",
+      "check": "Earthworks: terraces cut, pool excavated, excavator, stone blocks. Camera, villa, roofline, lake and trees unchanged (flip-book pitch/v3/keys/flipbook.jpg).",
+      "derived": [
+        "public/media/garden/keys/K1.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "K2",
+      "take": 1,
+      "file": "content/media/higgsfield/K/K2.png",
+      "source": "K6 (end frame B) and K0 as image references",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "6d7c8de0-452a-4c1e-bde2-7665535a2087",
+      "seed": null,
+      "status": "approved",
+      "check": "Stone wall, terrace paving and steps; empty pool shell; no planting. Camera, villa, roofline, lake and trees unchanged (flip-book pitch/v3/keys/flipbook.jpg).",
+      "derived": [
+        "public/media/garden/keys/K2.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "K3",
+      "take": 1,
+      "file": "content/media/higgsfield/K/K3.png",
+      "source": "K6 (end frame B) and K0 as image references",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "f1a5084b-fc62-496b-a4ff-14772346e781",
+      "seed": null,
+      "status": "approved",
+      "check": "Pool coping and water; gravel path; potted trees. Camera, villa, roofline, lake and trees unchanged (flip-book pitch/v3/keys/flipbook.jpg).",
+      "derived": [
+        "public/media/garden/keys/K3.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "K4",
+      "take": 1,
+      "file": "content/media/higgsfield/K/K4.png",
+      "source": "K6 (end frame B) and K0 as image references",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "a669c3d1-77a2-4676-9e8d-119000a9d0b6",
+      "seed": null,
+      "status": "approved",
+      "check": "Pergola standing; pool full; beds prepared; pots set out. Camera, villa, roofline, lake and trees unchanged (flip-book pitch/v3/keys/flipbook.jpg).",
+      "derived": [
+        "public/media/garden/keys/K4.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "K5",
+      "take": 1,
+      "file": "content/media/higgsfield/K/K5.png",
+      "source": "K6 (end frame B) and K0 as image references",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "3fdbf707-c1f3-4dce-9ebe-d22e0317b73d",
+      "seed": null,
+      "status": "approved",
+      "check": "Planting day: fresh turf, staked young trees, small plants. Camera, villa, roofline, lake and trees unchanged (flip-book pitch/v3/keys/flipbook.jpg).",
+      "derived": [
+        "public/media/garden/keys/K5.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "K7",
+      "take": 1,
+      "file": "content/media/higgsfield/K/K7.png",
+      "source": "K6 (end frame B) and K0 as image references",
+      "model": "gpt_image_2_5",
+      "settings": {
+        "aspect_ratio": "16:9",
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "jobId": "9f38d562-4ddb-40bd-b35d-4d1f575d147a",
+      "seed": null,
+      "status": "approved",
+      "check": "Dusk variant of K6: pergola and pool lights, interior glow. Camera, villa, roofline, lake and trees unchanged (flip-book pitch/v3/keys/flipbook.jpg).",
+      "derived": [
+        "public/media/garden/keys/K7.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "W0",
+      "take": 1,
+      "file": "content/media/higgsfield/K/W0.png",
+      "source": "K0 outpainted",
+      "model": "outpaint",
+      "settings": {
+        "size": "3584x2016"
+      },
+      "jobId": "20603896-d152-4f9a-acf7-25adb745fe9b",
+      "status": "approved",
+      "check": "Wider arrival frame; the code zooms from it to the K0 crop.",
+      "derived": [
+        "public/media/garden/W0.jpg"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "T1",
+      "take": 1,
+      "file": "content/media/higgsfield/C2/T1-K0-K2-wan720.mp4",
+      "source": "K0 → K2",
+      "model": "wan3_0",
+      "settings": {
+        "duration": 4,
+        "resolution": "720p",
+        "generate_audio": false
+      },
+      "jobId": "dd445e9e-8d89-4af2-9dfc-c11b44a45c23",
+      "status": "approved",
+      "check": "Locked camera, villa identical, wall rises course by course, pool shell appears; villa-box PSNR 25.8 dB vs K0 at start and 24.5 dB vs K2 at end. Awaiting the user's video gate. Video gate approved by the user on 2026-10-16.",
+      "usedOnPage": false
+    },
+    {
+      "id": "T2",
+      "take": 1,
+      "file": "content/media/higgsfield/C2/T2-K2-K4-wan720.mp4",
+      "source": "K2 → K4",
+      "model": "wan3_0",
+      "settings": {
+        "duration": 4,
+        "resolution": "720p",
+        "generate_audio": false
+      },
+      "jobId": "2027db76-a1b7-4a84-a46f-2ee8d9a73371",
+      "status": "approved",
+      "check": "Locked camera; coping laid, water rises, gravel path, pots set out, pergola assembled; villa identical.",
+      "usedOnPage": true
+    },
+    {
+      "id": "T3",
+      "take": 1,
+      "file": "content/media/higgsfield/C2/T3-K4-K6-wan720.mp4",
+      "source": "K4 → K6",
+      "model": "wan3_0",
+      "settings": {
+        "duration": 4,
+        "resolution": "720p",
+        "generate_audio": false
+      },
+      "jobId": "5cf76fa5-6631-49e2-ae6b-efc85a893888",
+      "status": "approved",
+      "check": "Locked camera; turf, planting, trees fill in, light warms to golden; villa identical. Preset recommendation declined, literal prompt used.",
+      "derived": [
+        "content/media/higgsfield/C2/garden-film.mp4 (xfade join of T1–T3)",
+        "public/media/garden/seq/{1600,800}/"
+      ],
+      "usedOnPage": true
+    },
+    {
+      "id": "E1",
+      "take": 1,
+      "file": "content/media/higgsfield/E/E1-pool.mp4",
+      "source": "K6 (end frame B) as start_image",
+      "model": "wan3_0",
+      "settings": {
+        "duration": 8,
+        "resolution": "720p",
+        "generate_audio": false
+      },
+      "jobId": "5dafa510-9dbb-4de1-a882-494fdedb04cd",
+      "status": "approved",
+      "check": "Slow descent from the hero viewpoint to the pool; pool stays whole; villa, pergola and wall unchanged; first frame 25.6 dB vs K6. Last frame exported as the start of E2.",
+      "usedOnPage": true
+    },
+    {
+      "id": "E2",
+      "take": 1,
+      "file": "content/media/higgsfield/E/E2-terrace.mp4",
+      "source": "E1 last frame (media 960320d9) as start_image",
+      "model": "wan3_0",
+      "settings": {
+        "duration": 8,
+        "resolution": "720p",
+        "generate_audio": false
+      },
+      "jobId": "6add2f6e-302b-436f-9d12-29e44c735e3d",
+      "status": "approved",
+      "check": "Glides along the pool coping and turns under the timber pergola to the dining terrace; first frame 37.4 dB vs E1's last frame (clean join); mountains drift closer but the villa, pool and pergola hold. Last frame exported as the start of E3.",
+      "usedOnPage": true
+    },
+    {
+      "id": "E3",
+      "take": 1,
+      "file": "content/media/higgsfield/E/E3-hold.mp4",
+      "source": "E2 last frame (media 56c4662b) as start_image",
+      "model": "wan3_0",
+      "settings": {
+        "duration": 8,
+        "resolution": "720p",
+        "generate_audio": false
+      },
+      "jobId": "c6ef7096-9b92-4958-984b-d7893204f434",
+      "status": "approved",
+      "check": "Quiet hold under the pergola with a slow drift; join 38.1 dB vs E2's last frame; nothing moves that should not. Last frame exported as the start of E4.",
+      "usedOnPage": true
+    },
+    {
+      "id": "E4",
+      "take": 1,
+      "file": "content/media/higgsfield/E/E4-evening.mp4",
+      "source": "E3 last frame (media e750fe08) as start_image",
+      "model": "wan3_0",
+      "settings": {
+        "duration": 8,
+        "resolution": "720p",
+        "generate_audio": false
+      },
+      "jobId": "b1072a42-b1a3-45f3-9cdd-d671c18aa9d8",
+      "status": "approved",
+      "check": "Evening falls on the terrace; join 37.8 dB vs E3's last frame. Closes the page's day-to-dusk arc.",
+      "usedOnPage": true
     }
   ],
   "notes": [
     "2026-10-15 round 2: 5 R submissions were refused with a 429 rate limit by the gpt_image_2_5 backend and 3 of them were resubmitted; 2 takes per R prompt instead of 4 to stay within the budget.",
-    "2026-10-15 round 3: the procedural three.js maquette was replaced by a Kling 3.0 sequence (C1–C4) scrubbed as WebP frames; see IMPLEMENTATION_PLAN.md."
-  ]
+    "2026-10-15 round 3: the procedural three.js maquette was replaced by a Kling 3.0 sequence (C1–C4) scrubbed as WebP frames; see IMPLEMENTATION_PLAN.md.",
+    "2026-10-16: Living Garden film = T1+T2+T3 joined (11.3 s), exported as WebP frames; no 1080p pass and no AI living loop by the user's decision; atmosphere done in CSS.",
+    "2026-10-16 round 4: six aerial clips of a different villa (A1–A6, generated outside this session on 2026-10-15) were reviewed and kept as references in content/media/higgsfield/A; the exploration of our villa is generated as chained Wan clips E1–E4 from K6, budget floor 600 credits."
+  ],
+  "creditsAfterRound4": 634.75
 }

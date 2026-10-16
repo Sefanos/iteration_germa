@@ -224,20 +224,6 @@ export const contact = {
   founded: site.founded,
 };
 
-export const hero = {
-  still: {
-    src: "/media/hero-chermignon-path.jpg",
-    width: 2880,
-    height: 2160,
-    alt: "Allée en pas japonais dans une pelouse, bornes lumineuses et palissade en mélèze, jardin d’un chalet à Chermignon",
-  },
-  /** Approved Higgsfield H1 take 1 (see content/media/higgsfield/manifest.json). */
-  video: {
-    mp4: "/media/hero-loop.mp4",
-    webm: "/media/hero-loop.webm",
-  } as { mp4: string; webm: string } | null,
-};
-
 export function telHref(phone: string) {
   return `tel:${phone.replace(/\s+/g, "")}`;
 }

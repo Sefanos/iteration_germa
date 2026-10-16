@@ -43,8 +43,8 @@ export function bandK(p: number, band: Band) {
  * mode "write": ordered thresholds (reading order). "scatter": random thresholds.
  */
 export function splitText(el: HTMLElement, mode: "write" | "words" | "sweep", seed = 7, spread = 0.7) {
-  if (el.dataset.split) return;
-  el.dataset.split = "1";
+  if (el.dataset.splitDone) return;
+  el.dataset.splitDone = "1";
   const text = el.textContent ?? "";
   const r = rng(seed);
   const sr = document.createElement("span");

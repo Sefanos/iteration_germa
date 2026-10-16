@@ -29,7 +29,7 @@ for (const [name, vp, mobile] of [["1440", { width: 1440, height: 900 }, false],
   const ctx = await browser.newContext({ viewport: { width: 1440, height: 900 }, reducedMotion: "reduce" });
   const page = await ctx.newPage();
   const frames = [];
-  page.on("request", (r) => { if (r.url().includes("/media/maquette/seq/")) frames.push(r.url()); });
+  page.on("request", (r) => { if (r.url().includes("/media/garden/seq/")) frames.push(r.url()); });
   await page.goto(BASE, { waitUntil: "networkidle" });
   await page.waitForTimeout(1500);
   const r = await page.evaluate(() => ({
@@ -44,13 +44,13 @@ for (const [name, vp, mobile] of [["1440", { width: 1440, height: 900 }, false],
 // frames missing: page still complete over the poster
 {
   const ctx = await browser.newContext({ viewport: { width: 1440, height: 900 } });
-  await ctx.route("**/media/maquette/seq/**", (route) => route.abort());
+  await ctx.route("**/media/garden/seq/**", (route) => route.abort());
   const page = await ctx.newPage();
   const errors = [];
   page.on("pageerror", (e) => errors.push(String(e)));
   await page.goto(BASE, { waitUntil: "networkidle" });
   await page.waitForTimeout(2500);
-  const r = await page.evaluate(() => ({ poster: getComputedStyle(document.querySelector(".poster img")).opacity, h1: document.querySelector(".film-stage h1")?.textContent?.trim() }));
+  const r = await page.evaluate(() => ({ poster: getComputedStyle(document.querySelector(".poster img")).opacity, h1: document.querySelector(".film-stage h1 .sr-only, .film-stage h1")?.textContent?.trim() }));
   console.log(`== frames blocked: poster opacity ${r.poster}, h1 "${r.h1}", page errors ${errors.length}`);
   await ctx.close();
 }

@@ -1,10 +1,14 @@
-import HeroFilm from "@/components/v2/HeroFilm";
+import GardenHero from "@/components/garden/GardenHero";
+import ScrollDrive from "@/components/garden/ScrollDrive";
+import SectionDim from "@/components/garden/SectionDim";
+import CanvasMount from "@/components/garden/CanvasMount";
 import Planches from "@/components/v2/Planches";
 import Index from "@/components/v2/Index";
 import PlanJardin from "@/components/v2/PlanJardin";
 import ShowroomV2 from "@/components/v2/ShowroomV2";
 import ContactV2 from "@/components/v2/ContactV2";
 import Reveal from "@/components/v2/Reveal";
+import Cursor from "@/components/garden/Cursor";
 
 export default function Page() {
   return (
@@ -15,15 +19,19 @@ export default function Page() {
       >
         Aller au contenu
       </a>
-      <HeroFilm />
-      <main id="main" tabIndex={-1}>
+      <CanvasMount />
+      <SectionDim />
+      <GardenHero />
+      <main id="main" tabIndex={-1} className="relative z-[1]">
         <Planches />
         <Index />
         <PlanJardin />
         <ShowroomV2 />
       </main>
       <ContactV2 />
+      <ScrollDrive />
       <Reveal />
+      <Cursor />
     </>
   );
 }
